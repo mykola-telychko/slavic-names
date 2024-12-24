@@ -20,4 +20,6 @@ South Slavic:
   Serbia,
   Slovenia,
 
+- warning about possible duplicates
+
 inspiration by: https://github.com/SzymonSkurski/slavic-names/tree/main/src/slavicNames
