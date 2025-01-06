@@ -21,5 +21,6 @@ South Slavic:
   Slovenia,
 
 - warning about possible duplicates
+- transliteration for cyrillic symbols in ukrainian dir
 
 inspiration by: https://github.com/SzymonSkurski/slavic-names/tree/main/src/slavicNames
