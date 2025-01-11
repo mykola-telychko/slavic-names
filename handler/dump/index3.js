@@ -1,5 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
+const axios = require('axios');
 
 async function readAndCombineFiles(filePaths) {
   try {
@@ -30,8 +31,20 @@ async function handleFile(inputFile, outputFile) {
       let arr1 = uniqueElArray(JSON.parse(data).names);
       let arr2 = uniqueElArray(JSON.parse(data).lastnames);
       let list = combinator(arr1, arr2);
+
       const jsonOutput = { "people": list }; 
-      await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2)); 
+      // console.log('peoples: ',list.length);
+      console.log('peoples: ', jsonOutput);
+
+
+      // await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2)); 
+
+      fetchData().then(tpcode => {// taxpayer code
+        console.log('tpcode resolve', tpcode.length); 
+      })
+      .catch(error => {
+        console.error("Promise rejected:", error);
+      }); 
 
     } catch (err) {
       console.error('Error processing file:', err);
@@ -65,6 +78,27 @@ function combinator(arr1, arr2) {
      }
     }
     return res;
+}
+
+// Send the GET request
+async function fetchData() {
+  try {
+    // const response = await axios.get('http://localhost:3000/api/generate?name=string&age=number&date=unix', { params });
+    // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8', { params });
+    const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8&qty=12669229')
+
+    // console.log('Response Data:', response.data);
+    return response.data;
+
+  } catch (error) {
+    if (error.response) {
+      console.error('Error Response:', error.response.status, error.response.data);
+    } else if (error.request) {
+      console.error('No Response Received:', error.message);
+    } else {
+      console.error('Request Setup Error:', error.message);
+    }
+  }
 }
 
 readAndCombineFiles(filePaths);
