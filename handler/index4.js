@@ -16,7 +16,9 @@ async function readAndCombineFiles(filePaths) {
       "lastnames": fileData[1]
     };
 
-    const outputFilePath = 'ua_names.json'; 
+    // const outputFilePath = 'ua_names.json'; 
+    const outputFilePath = 'tmp_full_names.json';
+
     await fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2)); 
 
     console.log("JSON file created successfully!");
@@ -31,33 +33,33 @@ async function handleFile(inputFile, outputFile) {
       let arr1 = uniqueElArray(JSON.parse(data).names);
       let arr2 = uniqueElArray(JSON.parse(data).lastnames);
     
-    //   console.log('peoples: ',list.length);
-
-      fetchData().then(async (tpcodes) => {
-        // ... ваш існуючий код
-        let list = combinator(arr1, arr2, tpcodes);
-
-        // const jsonOutput = JSON.stringify({ "people": list }); 
-        const jsonOutput = { "people": list }; 
-
-        // console.log('jsonOutput::', JSON.stringify(jsonOutput, null, 2));
-        await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2));
-        // await fs.writeFile(outputFile, jsonOutput);
-
-      })
-      .catch(error => {
-        console.error("Promise rejected:", error);
-      });
+    // console.log('jsonOutput::', list.length);
+    fetchTpCode()
+          .then(idpas => {
+                return fetchIdPas().then(async (tpcodes) => {
+                  let list = combinator(arr1, arr2, idpas, tpcodes);
+                  const jsonOutput = { "qty": list.length, "people": list }; 
+                  await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2));
+                })
+                .catch(error => {
+                  console.error("Promise rejected:", error);
+                });
+          })
 
     } catch (err) {
       console.error('Error processing file:', err);
     }
+   
   }
 
 // Example usage:
+// const filePaths = [
+//   './male-ukranian-names.txt', 
+//   './lastname-ukranian.txt'
+// ];
 const filePaths = [
-  './male-ukranian-names.txt', 
-  './lastname-ukranian.txt'
+  './all-name-cr.txt', 
+  './lastname-cr.txt'
 ];
 
 function uniqueElArray(arr) {
@@ -73,25 +75,29 @@ function uniqueElArray(arr) {
     return uniqueArray;
 }
 
-function combinator(arr1, arr2, tpcodes) {
+function combinator(arr1, arr2, idpas, tpcodes) {
     let res = [];
     let tpIndex = 0;
     for(let i = 0; i < arr1.length; i++){
         for(let k = 0; k < arr2.length; k++){
-            res.push({ name: `${arr1[i].trim()} ${arr2[k].trim()}`, tpcode: tpcodes[tpIndex % tpcodes.length]});
+            res.push({ name: `${arr1[i].trim()} ${arr2[k].trim()}`, 
+                       tpcode: idpas[tpIndex % idpas.length], 
+                       idpas: tpcodes[tpIndex % tpcodes.length]
+            });
             tpIndex++;
         }
     }
     return res;
 }
 
-// Send the GET request
-async function fetchData() {
+// Send request
+async function fetchIdPas() {
   try {
     // const response = await axios.get('http://localhost:3000/api/generate?name=string&age=number&date=unix', { params });
     // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8', { params });
-    const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8&qty=12669229')
-
+    // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8&qty=12669229');
+    const response = await axios.get("http://localhost:3000/api/generate?number=integer&numlen=7&qty=2000000&type=idpass")
+    
     // console.log('Response Data:', response.data);
     return response.data;
 
@@ -106,11 +112,26 @@ async function fetchData() {
   }
 }
 
+async function fetchTpCode() {
+  try {
+    const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=10&qty=2000000")
+    return response.data;
+
+  } catch (error) {
+    if (error.response) {
+      console.error('Error Response:', error.response.status, error.response.data);
+    } else if (error.request) {
+      console.error('No Response Received:', error.message);
+    } else {
+      console.error('Request Setup Error:', error.message);
+    }
+  }
+}
+
 readAndCombineFiles(filePaths);
-handleFile('ua_names.json', 'people.json');
-// fetchData('ua_names.json', 'people.json')
+handleFile('tmp_full_names.json', 'people_cr.json');
+// fetchIdPas('ua_names.json', 'people.json')
 //         .then(async (tpcodes) => {
-//         // ... ваш існуючий код
 //         let list = combinator(arr1, arr2, tpcodes);
 //         const jsonOutput = { "people": list }; 
 //         await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2));
