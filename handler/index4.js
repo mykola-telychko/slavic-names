@@ -13,7 +13,8 @@ async function readAndCombineFiles(filePaths) {
 
     const jsonData = {
       "names": fileData[0], 
-      "lastnames": fileData[1]
+      "lastnames": fileData[1],
+      "street": fileData[2],
     };
 
     // const outputFilePath = 'ua_names.json'; 
@@ -32,12 +33,13 @@ async function handleFile(inputFile, outputFile) {
       const data = await fs.readFile(inputFile, 'utf8');
       let arr1 = uniqueElArray(JSON.parse(data).names);
       let arr2 = uniqueElArray(JSON.parse(data).lastnames);
+      let arr3 = uniqueElArray(JSON.parse(data).street);
     
     // console.log('jsonOutput::', list.length);
     fetchTpCode()
           .then(idpas => {
                 return fetchIdPas().then(async (tpcodes) => {
-                  let list = combinator(arr1, arr2, idpas, tpcodes);
+                  let list = combinator(arr1, arr2, idpas, tpcodes, arr3);
                   const jsonOutput = { "qty": list.length, "people": list }; 
                   await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2));
                 })
@@ -59,7 +61,8 @@ async function handleFile(inputFile, outputFile) {
 // ];
 const filePaths = [
   './all-name-cr.txt', 
-  './lastname-cr.txt'
+  './lastname-cr.txt',
+   './addresses.txt'
 ];
 
 function uniqueElArray(arr) {
@@ -75,14 +78,15 @@ function uniqueElArray(arr) {
     return uniqueArray;
 }
 
-function combinator(arr1, arr2, idpas, tpcodes) {
+function combinator(arr1, arr2, idpas, tpcodes, street) {
     let res = [];
     let tpIndex = 0;
     for(let i = 0; i < arr1.length; i++){
         for(let k = 0; k < arr2.length; k++){
             res.push({ name: `${arr1[i].trim()} ${arr2[k].trim()}`, 
                        tpcode: idpas[tpIndex % idpas.length], 
-                       idpas: tpcodes[tpIndex % tpcodes.length]
+                       idpas: tpcodes[tpIndex % tpcodes.length],
+                       addres: street[tpIndex % street.length]
             });
             tpIndex++;
         }
