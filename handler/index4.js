@@ -43,23 +43,24 @@ async function handleFile(inputFile, outputFile) {
     // const [postcodeData] = await Promise.all([
     //   fetchPostCode(),
     // ]);
-    const [tpcodesData] = await Promise.all([
+    const [postcodeData, tpcodesData] = await Promise.all([
+      fetchPostCode(),
       fetchCodesPassAndTP(),
     ]);
 
     // const { postcode } = postcodeData;
-    // const { idpas, tpcode, postcode } = tpcodesData;
+    const { idpas, tpcode } = tpcodesData;
     // const { idpas, tpcode } = tpcodesData;
 
     // console.log(tpcodesData );// tpcode + idpas
     // postcodeData
-    console.log( tpcodesData);
+    // console.log( tpcodesData, "\n", postcodeData);
 
 
-    // let list = combinator(arr1, arr2, idpas, tpcode, arr3, arr4, postcode);
-    // const jsonOutput = { "qty": list.length, "people": list }; 
+    let list = combinator(arr1, arr2, idpas, tpcode, arr3, arr4, postcodeData);
+    const jsonOutput = { "qty": list.length, "people": list }; 
 
-    // await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2)); 
+    await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2)); 
 
   } catch (err) {
     console.error('Error processing file:', err);
@@ -99,7 +100,7 @@ function combinator(arr1, arr2, idpas, tpcodes, street, locality, pcode) {
             res.push({ name: `${arr1[i].trim()} ${arr2[k].trim()}`, 
                        tpcode: idpas[tpIndex % idpas.length], 
                        idpas: tpcodes[tpIndex % tpcodes.length],
-                       addres: street[tpIndex % street.length], 
+                       addres: street[tpIndex % street.length].trim() + ` ` + generateRandomTwoDigitNumber(), 
                        city: locality[tpIndex % locality.length],
                        postcode: pcode[tpIndex % pcode.length],
 
@@ -120,7 +121,7 @@ async function fetchCodesPassAndTP() {
     const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=1480000&type=codes')
     
     
-    console.log('fetchCodesPassAndTP:', response.data);
+    // console.log('fetchCodesPassAndTP:', response.data);
     return response.data;
 
   } catch (error) {
@@ -153,9 +154,9 @@ async function fetchTpCode() {
 async function fetchPostCode() {
   try {
     // const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=5&qty=1480000")
-    const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=7&qty=1480000&type=codes")
+    const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=7&qty=89990&type=codes")
     
-    console.log('fetchPostCode::', response.data);
+    // console.log('fetchPostCode::', response.data);
     return response.data;
 
   } catch (error) {
@@ -169,14 +170,10 @@ async function fetchPostCode() {
   }
 }
 
+function generateRandomTwoDigitNumber() {
+  return Math.floor(Math.random() * 90) + 10;
+}
+
+
 readAndCombineFiles(filePaths);
 handleFile('tmp_full_names.json', 'people_cr.json');
-// fetchIdPas('ua_names.json', 'people.json')
-//         .then(async (tpcodes) => {
-//         let list = combinator(arr1, arr2, tpcodes);
-//         const jsonOutput = { "people": list }; 
-//         await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2));
-//         })
-//         .catch(error => {
-//         console.error("Promise rejected:", error);
-//         });

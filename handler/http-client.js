@@ -1,17 +1,11 @@
 const axios = require('axios');
 
-// Define the parameters
-const params = {
-  qty: 1000         // Replace with desired quantity
-};
-
 // Send the GET request
 async function fetchData() {
   try {
-    // const response = await axios.get('http://localhost:3000/api/generate?name=string&age=number&date=unix', { params });
-    // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8', { params });
     // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=5&qty=30')
-    const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=100&type=codes')
+    // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=100&type=codes')
+    const response = await axios.get('http://localhost:3001/api/generate?number=integer&numlen=5&qty=89990')
 
     console.log('Response Data:', response.data);
   } catch (error) {
