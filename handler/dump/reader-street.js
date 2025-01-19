@@ -36,3 +36,15 @@ function uniqueElArray(arr) {
   }
   return uniqueArray;
 }
+
+// function replaceStreets(streets) {
+//   const streetPrefixes = ['пров.', 'пр.', 'вул.', 'пл.'];
+
+//   return streets.map(street => {
+//     const prefix = streetPrefixes.find(prefix => street.endsWith(prefix));
+//     if (prefix) {
+//       return prefix + ' ' + street.slice(0, -prefix.length);
+//     }
+//     return street;
+//   });
+// }

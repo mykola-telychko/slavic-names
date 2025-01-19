@@ -20,7 +20,9 @@ South Slavic:
   Serbia,
   Slovenia,
 
-- add dump dir 
+- info (insruction for api) + table max value 
+- save final version all bigJSON names
+
 - add outer path for 3files in HADLER.js where i generate bigJSON
 - warning about possible duplicates
 - transliteration for cyrillic symbols in ukrainian dir
