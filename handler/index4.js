@@ -22,14 +22,16 @@ async function readAndCombineFiles(filePaths) {
     const outputFilePath = 'tmp_full_names.json';
 
     await fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2)); 
-
+    
     console.log("JSON file created successfully!");
   } catch (err) {
     console.error("Error processing files:", err);
   }
 }
 
-async function handleFile(inputFile, outputFile) {
+// async function handleFile(inputFile, outputFile) {
+async function handleFile(inputFile, outputFile1, outputFile2) {
+
   try {
     const data = await fs.readFile(inputFile, 'utf8');
     const parsedData = JSON.parse(data);
@@ -58,9 +60,40 @@ async function handleFile(inputFile, outputFile) {
 
 
     let list = combinator(arr1, arr2, idpas, tpcode, arr3, arr4, postcodeData);
-    const jsonOutput = { "qty": list.length, "people": list }; 
+    let half = chunkArray(list, 810000)
 
-    await fs.writeFile(outputFile, JSON.stringify(jsonOutput, null, 2)); 
+    const jsonOutput1 = { "qty": half[0].length, "people": half[0] }; 
+    const jsonOutput2 = { "qty": half[1].length, "people": half[1] }; 
+    const jsonOutput3 = { "qty": half[2].length, "people": half[2] }; 
+    const jsonOutput4 = { "qty": half[3].length, "people": half[3] }; 
+    const jsonOutput5 = { "qty": half[4].length, "people": half[4] }; 
+    const jsonOutput6 = { "qty": half[5].length, "people": half[5] }; 
+    const jsonOutput7 = { "qty": half[6].length, "people": half[6] }; 
+    const jsonOutput8 = { "qty": half[7].length, "people": half[7] }; 
+    // const jsonOutput9 = { "qty": half[8].length, "people": half[8] }; 
+    // const jsonOutput10 = { "qty": half[9].length, "people": half[9] }; 
+
+
+    // console.log( 'jsonOutput', "\n", half, half.length);
+    console.log( 'jsonOutput', "\n",  half.length);
+
+    // for ( let i = 0; i < half.length; i++ ) {
+      await fs.writeFile(outputFile1, JSON.stringify(jsonOutput1, null, 2)); 
+      await fs.writeFile(outputFile2, JSON.stringify(jsonOutput2, null, 2)); 
+      await fs.writeFile('people_ua3.json', JSON.stringify(jsonOutput3, null, 2)); 
+      await fs.writeFile('people_ua4.json', JSON.stringify(jsonOutput4, null, 2)); 
+      await fs.writeFile('people_ua5.json', JSON.stringify(jsonOutput5, null, 2)); 
+      await fs.writeFile('people_ua6.json', JSON.stringify(jsonOutput6, null, 2)); 
+      await fs.writeFile('people_ua7.json', JSON.stringify(jsonOutput7, null, 2)); 
+      await fs.writeFile('people_ua8.json', JSON.stringify(jsonOutput8, null, 2)); 
+      // await fs.writeFile('people_ua9.json', JSON.stringify(jsonOutput9, null, 2)); 
+      // await fs.writeFile('people_ua10.json', JSON.stringify(jsonOutput10, null, 2)); 
+
+    // }
+
+    // await fs.writeFile(outputFile1, JSON.stringify(jsonOutput1, null, 2)); 
+    // await fs.writeFile(outputFile2, JSON.stringify(jsonOutput2, null, 2)); 
+
 
   } catch (err) {
     console.error('Error processing file:', err);
@@ -72,9 +105,16 @@ async function handleFile(inputFile, outputFile) {
 //   './male-ukranian-names.txt', 
 //   './lastname-ukranian.txt'
 // ];
+// const filePaths = [
+//   './all-name-cr.txt', 
+//   './lastname-cr.txt',
+//   './addresses.txt',
+//   './cities.txt'
+// ];
+
 const filePaths = [
-  './all-name-cr.txt', 
-  './lastname-cr.txt',
+  './all-name-ua.txt', 
+  './lastname-ua.txt',
   './addresses.txt',
   './cities.txt'
 ];
@@ -99,12 +139,11 @@ function combinator(arr1, arr2, idpas, tpcodes, street, locality, pcode) {
         for(let k = 0; k < arr2.length; k++){
             res.push({ name: `${arr1[i].trim()} ${arr2[k].trim()}`, 
                        tpcode: idpas[tpIndex % idpas.length], 
+                       birthday: getRandomDate('1930-01-01', '2023-12-31'),
                        idpas: tpcodes[tpIndex % tpcodes.length],
                        addres: street[tpIndex % street.length].trim() + ` ` + generateRandomTwoDigitNumber(), 
                        city: locality[tpIndex % locality.length],
                        postcode: pcode[tpIndex % pcode.length],
-
-
             });
             tpIndex++;
         }
@@ -117,9 +156,8 @@ async function fetchCodesPassAndTP() {
   try {
     // const response = await axios.get('http://localhost:3000/api/generate?name=string&age=number&date=unix', { params });
     // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=8', { params });
-    // const response = await axios.get("http://localhost:3000/api/generate?number=integer&numlen=7&qty=2000000&type=idpass")
-    const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=1480000&type=codes')
-    
+    // const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=1480000&type=codes') // cr
+    const response = await axios.get('http://localhost:3000/api/generate?number=integer&numlen=7&qty=12668229&type=codes') // ua
     
     // console.log('fetchCodesPassAndTP:', response.data);
     return response.data;
@@ -135,21 +173,21 @@ async function fetchCodesPassAndTP() {
   }
 }
 
-async function fetchTpCode() {
-  try {
-    const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=10&qty=1480000")
-    return response.data;
+// async function fetchTpCode() {
+//   try {
+//     const response = await axios.get("http://localhost:3001/api/generate?number=integer&numlen=10&qty=1480000")
+//     return response.data;
 
-  } catch (error) {
-    if (error.response) {
-      console.error('Error Response:', error.response.status, error.response.data);
-    } else if (error.request) {
-      console.error('No Response Received:', error.message);
-    } else {
-      console.error('Request Setup Error:', error.message);
-    }
-  }
-}
+//   } catch (error) {
+//     if (error.response) {
+//       console.error('Error Response:', error.response.status, error.response.data);
+//     } else if (error.request) {
+//       console.error('No Response Received:', error.message);
+//     } else {
+//       console.error('Request Setup Error:', error.message);
+//     }
+//   }
+// }
 
 async function fetchPostCode() {
   try {
@@ -174,6 +212,24 @@ function generateRandomTwoDigitNumber() {
   return Math.floor(Math.random() * 90) + 10;
 }
 
+function getRandomDate(startDate, endDate) {
+  const start = new Date(startDate).getTime();
+  const end = new Date(endDate).getTime();
+  const randomTimestamp = Math.random() * (end - start) + start;
+  const randomDate = new Date(randomTimestamp);
+
+  return randomDate.toISOString().split('T')[0]; // Extract date in YYYY-MM-DD format
+}
+
+
 
 readAndCombineFiles(filePaths);
-handleFile('tmp_full_names.json', 'people_cr.json');
+handleFile('tmp_full_names.json', 'people_ua.json', 'people_ua2.json');
+// handleFile('tmp_full_names.json', 'people_cr.json');
+
+// from https://github.com/mykola-telychko/assistant-js/blob/main/fn-array.js
+const chunkArray = (arr, size) => 
+  arr.reduce(
+    (acc, _, i) => (
+      i % size === 0 ? [...acc, arr.slice(i, i + size)] : acc), []
+  );
