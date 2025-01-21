@@ -68,8 +68,8 @@ async function handleFile(inputFile, outputFile1, outputFile2) {
     const jsonOutput4 = { "qty": half[3].length, "people": half[3] }; 
     const jsonOutput5 = { "qty": half[4].length, "people": half[4] }; 
     const jsonOutput6 = { "qty": half[5].length, "people": half[5] }; 
-    const jsonOutput7 = { "qty": half[6].length, "people": half[6] }; 
-    const jsonOutput8 = { "qty": half[7].length, "people": half[7] }; 
+    // const jsonOutput7 = { "qty": half[6].length, "people": half[6] }; 
+    // const jsonOutput8 = { "qty": half[7].length, "people": half[7] }; 
     // const jsonOutput9 = { "qty": half[8].length, "people": half[8] }; 
     // const jsonOutput10 = { "qty": half[9].length, "people": half[9] }; 
 
@@ -80,12 +80,12 @@ async function handleFile(inputFile, outputFile1, outputFile2) {
     // for ( let i = 0; i < half.length; i++ ) {
       await fs.writeFile(outputFile1, JSON.stringify(jsonOutput1, null, 2)); 
       await fs.writeFile(outputFile2, JSON.stringify(jsonOutput2, null, 2)); 
-      await fs.writeFile('people_ua3.json', JSON.stringify(jsonOutput3, null, 2)); 
-      await fs.writeFile('people_ua4.json', JSON.stringify(jsonOutput4, null, 2)); 
-      await fs.writeFile('people_ua5.json', JSON.stringify(jsonOutput5, null, 2)); 
-      await fs.writeFile('people_ua6.json', JSON.stringify(jsonOutput6, null, 2)); 
-      await fs.writeFile('people_ua7.json', JSON.stringify(jsonOutput7, null, 2)); 
-      await fs.writeFile('people_ua8.json', JSON.stringify(jsonOutput8, null, 2)); 
+      await fs.writeFile('people_sksvcz3.json', JSON.stringify(jsonOutput3, null, 2)); 
+      await fs.writeFile('people_sksvcz4.json', JSON.stringify(jsonOutput4, null, 2)); 
+      await fs.writeFile('people_sksvcz5.json', JSON.stringify(jsonOutput5, null, 2)); 
+      await fs.writeFile('people_sksvcz6.json', JSON.stringify(jsonOutput6, null, 2)); 
+      // await fs.writeFile('people_sksvcz7.json', JSON.stringify(jsonOutput7, null, 2)); 
+      // await fs.writeFile('people_sksvcz8.json', JSON.stringify(jsonOutput8, null, 2)); 
       // await fs.writeFile('people_ua9.json', JSON.stringify(jsonOutput9, null, 2)); 
       // await fs.writeFile('people_ua10.json', JSON.stringify(jsonOutput10, null, 2)); 
 
@@ -111,10 +111,16 @@ async function handleFile(inputFile, outputFile1, outputFile2) {
 //   './addresses.txt',
 //   './cities.txt'
 // ];
+// const filePaths = [
+//   './all-name-ua.txt', 
+//   './lastname-ua.txt',
+//   './addresses.txt',
+//   './cities.txt'
+// ];
 
 const filePaths = [
-  './all-name-ua.txt', 
-  './lastname-ua.txt',
+  './names-sksvcz.txt', 
+  './surename-sksvcz.txt',
   './addresses.txt',
   './cities.txt'
 ];
@@ -224,7 +230,8 @@ function getRandomDate(startDate, endDate) {
 
 
 readAndCombineFiles(filePaths);
-handleFile('tmp_full_names.json', 'people_ua.json', 'people_ua2.json');
+handleFile('tmp_full_names.json', 'people_sksvcz.json', 'people_sksvcz2.json');
+// handleFile('tmp_full_names.json', 'people_ua.json', 'people_ua2.json');
 // handleFile('tmp_full_names.json', 'people_cr.json');
 
 // from https://github.com/mykola-telychko/assistant-js/blob/main/fn-array.js
