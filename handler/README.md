@@ -2,7 +2,7 @@
 
 - add polish people
 - join assistant-js, data-rand-generator, 
-
+- the taxpayer code will be unique for everyone. a file should be generated where there will be numbers from 0001 - 9999. and each return of a portion of codes will be a reduction of the file
 
 +Handler for parsing and building big json file 
 
