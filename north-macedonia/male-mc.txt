@@ -1,0 +1,160 @@
+Apostol
+Aleksandar
+Bogdan
+Branislav
+Branko
+Bren 
+Christo
+Darko
+David
+Dragoslav
+Dušan
+Elisie
+Filip
+Gavrail
+Grigor
+Ilija
+Jakle
+Jako
+Jakov
+Isidor
+Joakim
+Josif
+Julijan
+Kliment
+Konstantin
+Maksim
+Mihail
+Mirko
+Mojcej
+Neven
+Niko
+Nikola
+Odisej
+Paskal
+Petar
+Petre
+Sava
+Sebastjan
+Sime
+Simon
+Solomon
+Stanimir
+Stefan
+Stevan
+Stojan
+Teodor
+Tihomir
+Todor
+Tomas
+Toše
+Uril
+Veselin
+Zlatko
+Zoron
+Zvonimir
+
+A
+Andon (name)
+Anton (given name)
+B
+Berislav
+Blagoj
+Blagoje
+Boban
+Bogdan
+Bojan
+Boris (given name)
+Boško
+Božidar
+Božin
+Branimir
+D
+Dalibor (name)
+Darko (given name)
+Davor (name)
+Dejan
+Dmitry
+Dobroslav
+Doncho
+Dragan
+Dragoljub
+Dragomir
+Dušan
+Duško
+G
+Goran (Slavic name)
+Gordan
+H
+Hristijan
+I
+Ilija (given name)
+Ivan
+J
+Jadranko
+Jovan (given name)
+K
+Kliment
+Krsto
+Kuzman
+L
+Leonid
+Lubomir
+M
+Marjan (name)
+Marko (given name)
+Mateja
+Maxim (given name)
+Milan (given name)
+Mile (given name)
+Milivoj
+Milorad
+Miodrag
+Mirko
+Miroslav (given name)
+Mitko
+Mladen
+N
+Nebojša
+Nenad
+Neven (given name)
+Nikita (given name)
+Nikola
+O
+Oliver (given name)
+P
+Pavel
+Pavle
+Pero (name)
+Petko
+R
+Radomir (given name)
+Ratimir
+Risto
+S
+Sasho
+Slavoljub
+Stanimir
+Stjepan
+T
+Tihomir
+Todor
+Toni
+V
+Vadim
+Vasil
+Velimir
+Veselin
+Vitomir
+Vlade
+Vlatko
+Vuk (name)
+Vukašin
+Vukmir
+Y
+Yury
+Z
+Željko
+Živko
+Zlatan
+Zoran
