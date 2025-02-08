@@ -1,60 +1,42 @@
-A
-Ana (given name)
+Ana 
 Anastasija
 Andrijana
-B
-Biljana (name)
+Biljana 
 Branka
-D
-Danica (given name)
-E
-Elena (given name)
-G
+Danica 
+Elena 
 Gorana
 Gordana
-I
 Irina
 Ivana
-J
-Jasna (given name)
+Jasna 
 Julija
-K
-Kalina (given name)
-Karolina (name)
+Kalina 
+Karolina 
 Katerina
 Katya
-L
 Ljubica
-M
-Magdalena (given name)
-Marta (given name)
-Milena (given name)
+Magdalena 
+Marta 
+Milena 
 Milica
-Mira (given name)
-N
+Mira 
 Natasha
 Nevena
-Nina (name)
-O
+Nina 
 Olgica
-P
-Petra (given name)
-R
+Petra 
 Radmila
-Ruslana (given name)
-S
+Ruslana 
 Snežana
-Sofija (given name)
-T
-Tamara (given name)
+Sofija 
+Tamara 
 Tanja
-Tanya (name)
+Tanya 
 Trena
-V
-Valentina (given name)
-Vesna (given name)
-Viktorija (given name)
-
+Valentina 
+Vesna 
+Viktorija 
 Aleksandra
 Ana
 Anamarija

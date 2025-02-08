@@ -53,26 +53,22 @@ Veselin
 Zlatko
 Zoron
 Zvonimir
-
-A
-Andon (name)
-Anton (given name)
-B
+Andon 
+Anton 
 Berislav
 Blagoj
 Blagoje
 Boban
 Bogdan
 Bojan
-Boris (given name)
+Boris 
 Boško
 Božidar
 Božin
 Branimir
-D
-Dalibor (name)
-Darko (given name)
-Davor (name)
+Dalibor 
+Darko 
+Davor 
 Dejan
 Dmitry
 Dobroslav
@@ -82,65 +78,51 @@ Dragoljub
 Dragomir
 Dušan
 Duško
-G
-Goran (Slavic name)
+Goran 
 Gordan
-H
 Hristijan
-I
-Ilija (given name)
+Ilija 
 Ivan
-J
 Jadranko
-Jovan (given name)
-K
+Jovan 
 Kliment
 Krsto
 Kuzman
-L
 Leonid
 Lubomir
-M
-Marjan (name)
-Marko (given name)
+Marjan 
+Marko 
 Mateja
-Maxim (given name)
-Milan (given name)
-Mile (given name)
+Maxim 
+Milan 
+Mile 
 Milivoj
 Milorad
 Miodrag
 Mirko
-Miroslav (given name)
+Miroslav 
 Mitko
 Mladen
-N
 Nebojša
 Nenad
-Neven (given name)
-Nikita (given name)
+Neven 
+Nikita 
 Nikola
-O
-Oliver (given name)
-P
+Oliver 
 Pavel
 Pavle
-Pero (name)
+Pero 
 Petko
-R
-Radomir (given name)
+Radomir 
 Ratimir
 Risto
-S
 Sasho
 Slavoljub
 Stanimir
 Stjepan
-T
 Tihomir
 Todor
 Toni
-V
 Vadim
 Vasil
 Velimir
@@ -148,12 +130,10 @@ Veselin
 Vitomir
 Vlade
 Vlatko
-Vuk (name)
+Vuk 
 Vukašin
 Vukmir
-Y
 Yury
-Z
 Željko
 Živko
 Zlatan
