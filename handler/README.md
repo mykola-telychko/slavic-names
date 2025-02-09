@@ -1,6 +1,6 @@
 # Handler
 
-- add polish people
+- use checkDuplicates if more then 2 duplicate ? if we get max 5-codes + this max 5codes = we have 2 duplicate all elms.
 - join assistant-js, data-rand-generator, 
 - the taxpayer code will be unique for everyone. a file should be generated where there will be numbers from 0001 - 9999. and each return of a portion of codes will be a reduction of the file
 
