@@ -301,23 +301,23 @@ Zvonko
 
 Aca 
 Aco
-Adam Адам  Dutch    
-Aleksa Алекса
-Aleksandar Александар  Bosnian
-Aljoša Аљоша& f  
-Anđelko Анђелко  
-Andrej Андреј
-Andreja 2 Андреја
-Andrija Андрија  
-Anto Анто  
-Antonije Антоније
-Atanasije Атанасије
-Blagoje Благоје
-Boban Бобан  
-Bogdan Богдан    
-Bojan Бојан   
-Boris Борис    Georgian  
-Borislav Борислав 
+Adam  
+Aleksa 
+Aleksandar   
+Aljoša 
+Anđelko  
+Andrej 
+Andreja 
+Andrija 
+Anto   
+Antonije 
+Atanasije 
+Blagoje 
+Boban  
+Bogdan     
+Bojan 
+Boris 
+Borislav  
 Borivoj Боривој  
 Borivoje Боривоје
 Borko Борко  
@@ -352,7 +352,7 @@ Alternate
 Djuro 
 Alternate  
 Dmitar Дмитар  
-Dobrilo Добрило (Rare)
+Dobrilo Добрило 
 Dobroslav Доброслав
 Đorđe Ђорђе
 Dositej Доситеј (Archaic)
@@ -379,7 +379,7 @@ Gojko
 Goran 
 Gordan Гордан  
 Hranislav Хранислав
-Hristofor Христофор  (Rare)
+Hristofor Христофор  
 Igor Игор    Italian Portuguese Basque
 Ilija Илија   
 Isaija Исаија  
@@ -406,8 +406,7 @@ Jovica Јовица
 Julijan Јулијан 
 Konstantin Константин  Finnish Hungarian
 Kosta Коста 
-  and   of Konstantin
-Kristijan Кристијан   
+Kristijan    
 Krsto Крсто  
 Kuzman Кузман 
 Ladislav Ладислав 
@@ -417,12 +416,12 @@ Ljuban Љубан
 Ljubiša Љубиша
 Ljubo Љубо 
 Ljubomir Љубомир   
-Luka Лука   Georgian  Church 
+Luka 
 Marin Марин 
 Marinko Маринко  
   of Marin
 Marjan 2 Марјан
-Marko Марко   FinnishBasque
+Marko Марко   
 Martin Мартин       Hungarian  Finnish
 Mateja 2 Матеја
  variant of Matija
@@ -431,70 +430,64 @@ Mihailo Михаило
 Mihajlo Михајло
 Mijo Мијо  
 Milan 
-Mile Миле 
-Milenko Миленко 
-Milivoj Миливој 
-Miloje Милоје
-Milojica Милојица
- of Miloje
-Milojko Милојко
-Variant of Miloje
-Milomir Миломир
-Milorad Милорад 
-Miloš Милош   
-Milovan Милован  
-Miodrag Миодраг  
-Miomir Миомир
+Mile  
+Milenko  
+Milivoj  
+Miloje 
+Milojica 
+Milojko 
+Milomir 
+Milorad  
+Miloš    
+Milovan   
+Miodrag   
+Miomir 
 Mirko Мирко  Italian
-Miroslav Мирослав     
-Miša Миша& f
-Miško Мишко  
- and   of Mihailo Mihael Miroslav and other  beginning with a similar sound
-Mitar Митар
-Mladen Младен    
-Momir Момир
-Nebojša Небојша  
-Nedeljko Недељко  
-Nemanja Немања
-Nenad Ненад  
-Neno Нено  
- of Nenad
-Neven Невен 
-Nikica Никица  
-  of Nikola 
-Nikola  Никола     Basque
-Ninoslav Нинослав Medieval 
-Novak Новак
-Obrad Обрад
-Ognjan Огњан  
-Ognjen Огњен  
+Miroslav     
+Miša & f
+Miško   
+Mitar 
+Mladen     
+Momir 
+Nebojša   
+Nedeljko   
+Nemanja 
+Nenad   
+Neno   
+Neven  
+Nikica   
+Nikola 
+Ninoslav 
+Novak 
+Obrad 
+Ognjan 
+Ognjen
 Oliver 
 Pavle 
-Peđa Пеђа
- of Predrag
-Pedja Пеђа
-Pejo Пејо  
-Perica Перица  
-Pero Перо 
-Petar Петар  
-Petko Петко 
-Plamen Пламен 
-Predrag Предраг  
-Prvoslav Првослав
-Rade Раде  
-Radivoj Радивој
-Radivoje Радивоје
-Variant of Radivoj
-Radmilo Радмило
-Radomir Радомир  
-Radoš Радош
-Radoslav Радослав    
-Radovan Радован   
-Rajko Рајко 
-Ranko Ранко  
-Ratislav Ратислав (Rare)
-Ratko Ратко  
-Ratomir Ратомир
+Peđa
+Pedja 
+Pejo   
+Perica   
+Pero  
+Petar 
+Petko 
+Plamen 
+Predrag 
+Prvoslav 
+Rade   
+Radivoj 
+Radivoje
+Variant 
+Radmilo 
+Radomir   
+Radoš 
+Radoslav     
+Radovan    
+Rajko  
+Ranko   
+Ratislav  
+Ratko   
+Ratomir 
 Risto 
 Saša 
 Sava  
@@ -505,35 +498,33 @@ Simo
 Siniša 
 Slaven 
 Slavko 
-Slavoljub Славољуб
-Slavomir Славомир  
-Slobodan Слободан 
-Spiridon Спиридон  (Rare)  (Rare)
-Srećko Срећко  
- cognate of Srečko
+Slavoljub 
+Slavomir   
+Slobodan  
+Spiridon     
+Srećko  
 Stanimir  
 Stanislav   
-Stanko Станко
-Stefan Стефан   Dutch   
-Stevan Стеван
-Stevo Стево 
-Stjepan Стјепан  
-Stojan Стојан   
-Svetomir Светомир   (Rare)
-Tadija Тадија  
-Teodor Теодор      
-Tihomir Тихомир  
-Todor Тодор 
-Toma 2 Тома Georgian
-Tomislav Томислав  
-Trajan 2 Трајан  
-Uros Урош
-Alternate  of  Урош (see Uroš)
-Uroš Урош  
-Vanja Вања& f  
-Vartolomej Вартоломеј (Rare)
-Vasilije Василије
-Vaso  ВасоGeorgian 
+Stanko 
+Stefan    
+Stevan 
+Stevo 
+Stjepan  
+Stojan 
+Svetomir 
+Tadija 
+Teodor       
+Tihomir  
+Todor 
+Toma 
+Tomislav  
+Trajan   
+Uros 
+Uroš   
+Vanja 
+Vartolomej 
+Vasilije 
+Vaso  
 Vedran 
 Velibor 
 Velimir 
