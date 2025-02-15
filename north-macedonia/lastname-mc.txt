@@ -107,7 +107,8 @@ Bosevski
 Boskovksi
 Boulis
 Bozhinoski	
-Bozinov	Bozinovski
+Bozinov
+Bozinovski
 Budzakoski
 Caracoti
 Chakalarov
@@ -438,7 +439,8 @@ Velevski
 Velyov	
 Vidimce	Vladev
 Vodenicharski
-Wasilew	Wlakantchovski
+Wasilew	
+Wlakantchovski
 Yanev	
 Yaponski
 Yurukov
