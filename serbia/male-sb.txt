@@ -295,10 +295,6 @@ Zoran
 Zvezdan
 Zvonimir
 Zvonko
-
-
-
-
 Aca 
 Aco
 Adam  
@@ -318,25 +314,24 @@ Bogdan
 Bojan 
 Boris 
 Borislav  
-Borivoj Боривој  
-Borivoje Боривоје
-Borko Борко  
-Boro Боро  
-Boško Бошко 
-Boža Божа
- of Božidar
-Božidar Божидар  Sorbian
+Borivoj   
+Borivoje 
+Borko   
+Boro   
+Boško  
+Boža 
+Božidar   
 Božo Божо 
-Branimir Бранимир  
-Branislav Бранислав   
-Branko Бранко   
-Bratislav Братислав
-Čedomir Чедомир 
-Cvetko Цветко
-Dalibor Далибор 
-Damir  Дамир 
-Damjan Дамјан
-Danijel Данијел 
+Branimir   
+Branislav    
+Branko    
+Bratislav 
+Čedomir  
+Cvetko 
+Dalibor  
+Damir   
+Damjan 
+Danijel  
 Danilo 
 Danko  
 Darko
@@ -351,84 +346,77 @@ Djuradj
 Alternate 
 Djuro 
 Alternate  
-Dmitar Дмитар  
-Dobrilo Добрило 
-Dobroslav Доброслав
-Đorđe Ђорђе
-Dositej Доситеј (Archaic)
-Dragan Драган  
-Dragiša Драгиша
-Drago Драго   
-Dragoljub Драгољуб  
-Dragomir Драгомир  
-Dragoslav Драгослав 
-Dragutin Драгутин 
+Dmitar   
+Dobrilo  
+Dobroslav 
+Đorđe 
+Dositej  
+Dragan   
+Dragiša 
+Drago    
+Dragoljub   
+Dragomir   
+Dragoslav  
+Dragutin  
 Draško
 Draža 
-Dražen Дражен  
-Đurađ Ђурађ
-Đuro Ђуро  
-Dušan Душан   
-Duško Душко 
-Variant of Dušan
-Emil Емил       Hungarian Icelandic 
-Filip Филип  Dutch      Finnish
-Franjo Фрањо  
-Gavrilo Гаврило
+Dražen   
+Đurađ 
+Đuro   
+Dušan    
+Duško  
+Variant 
+Emil          
+Filip         
+Franjo   
+Gavrilo 
 Gojko 
 Goran 
-Gordan Гордан  
-Hranislav Хранислав
-Hristofor Христофор  
-Igor Игор    Italian Portuguese Basque
-Ilija Илија   
-Isaija Исаија  
-Ivan Иван  Belarusian     Italian Portuguese  
-Ivica Ивица  
- of Ivan
-Ivo 2 Иво  
- of Ivan
-Jadran Јадран 
-Jadranko Јадранко 
-Jakov Јаков 
-Jakša Јакша  
- of Jakov
-Janko Јанко
- of Janez or Ján
-Javor Јавор  
+Gordan   
+Hranislav 
+Hristofor   
+Igor       
+Ilija    
+Isaija   
+Ivan           
+Ivica   
+Ivo
+Jadran  
+Jadranko  
+Jakov 
+Jakša   
+Janko 
+Javor   
 Jevrem 
 Joakim 
 Jordan 
 Josif 
 Jovan 
-Jovica Јовица  
- of Jovan
-Julijan Јулијан 
-Konstantin Константин  Finnish Hungarian
-Kosta Коста 
+Jovica   
+Julijan  
+Konstantin    
+Kosta  
 Kristijan    
-Krsto Крсто  
-Kuzman Кузман 
-Ladislav Ладислав 
-Lazar Лазар 
-Ljuba Љуба& f   
-Ljuban Љубан  
-Ljubiša Љубиша
-Ljubo Љубо 
-Ljubomir Љубомир   
+Krsto   
+Kuzman  
+Ladislav  
+Lazar  
+Ljuba 
+Ljuban 
+Ljubiša 
+Ljubo  
+Ljubomir    
 Luka 
-Marin Марин 
-Marinko Маринко  
-  of Marin
-Marjan 2 Марјан
-Marko Марко   
-Martin Мартин       Hungarian  Finnish
-Mateja 2 Матеја
- variant of Matija
-Matija Матија& f  
-Mihailo Михаило
-Mihajlo Михајло
-Mijo Мијо  
+Marin  
+Marinko   
+Marjan 
+Marko    
+Martin          
+Mateja 
+Matija  
+Mihailo 
+Mihajlo 
+Mijo   
 Milan 
 Mile  
 Milenko  
@@ -442,9 +430,9 @@ Miloš
 Milovan   
 Miodrag   
 Miomir 
-Mirko Мирко  Italian
+Mirko   
 Miroslav     
-Miša & f
+Miša 
 Miško   
 Mitar 
 Mladen     
