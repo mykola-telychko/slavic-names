@@ -10,8 +10,8 @@ async function readAndCombineFiles(filePaths) {
           return data.trim().replace(/\t/g, '').split('\n'); 
         })
       );
-      const outputFilePath = 'sk_names.json'; 
-      const outputFilePath1 = 'sk_allcomb.json'; 
+      const outputFilePath = 'sb_names.json'; 
+      const outputFilePath1 = 'sb_allcomb.json'; 
 
       let list = combinator(fileData[0], fileData[1]);
       // let half = chunkArray(list, 5000000)
@@ -34,8 +34,8 @@ async function readAndCombineFiles(filePaths) {
 
 // Example usage:
 const filePaths = [
-  './all-name-sk.txt', 
-  './lastname-sk.txt'
+  './all-names-sb.txt', 
+  './lastname-sb.txt'
 ];
 
 function uniqueElArray(arr) {
