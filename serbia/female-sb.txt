@@ -129,12 +129,11 @@ Zorka
 
 Adrijana Адријана 
 Agata Агата   
-Agnija Агнија Latvian
-Aleksandra Александра    Latvian 
+Agnija Агнија 
+Aleksandra Александра     
 Ana Ана   Albanian  Tongan
-Anastasija АнастасијаLatvian 
+Anastasija Анастасија 
 Anđa Анђа 
-Diminutive of Anđela.
 Anđela Анђела 
 Anđelka Анђелка 
 Andjela Анђела
@@ -143,12 +142,9 @@ Andrijana Андријана
 Angelina Ангелина  German  Greek Armenian
 Anica Аница 
 Anja Ања   German 
-Form of Anya in several languages.
 Anka Анка  
-Diminutive of Anna.
 Ankica Анкица 
-Diminutive of Anka.
-Antonija Антонија Latvian
+Antonija Антонија 
 Atanasija Атанасија 
 Biljana Биљана 
 Biserka Бисерка 
@@ -194,7 +190,7 @@ Dušica Душица
 Edita ЕдитаCzech  
 Ela 1 Ела 
 Emilija Емилија  
-Glorija ГлоријаLatvian 
+Glorija Глорија 
 Goranka Горанка 
 Gordana Гордана 
 Hristina Христина 
@@ -210,54 +206,45 @@ Jaga
 Jagoda  
 Jana
 Janja  
-Jasmina Јасмина Bosnian 
-Jasna Јасна 
-Jefimija Јефимија
-Jela Јела 
-Jelena Јелена  
-Jelica Јелица 
-Diminutive of Jela.
-Jelisaveta Јелисавета
-Jelka Јелка 
-Jordana Јордана   (Rare)
+Jasmina 
+Jasna 
+Jefimija 
+Jela  
+Jelena   
+Jelica  
+Jelisaveta 
+Jelka 
+Jordana 
 Jovana Јована 
 Jovanka Јованка 
-Diminutive of Jovana.
 Julijana Јулијана 
-Katarina Катарина German  Sorbian
-Form of Katherine in several languages.
+Katarina Катарина German  
 Kornelija Корнелија 
-Kristina Кристина  German Czech  Albanian Faroese 
-Ksenija Ксенија  Latvian
-Form of Xenia in several languages.
-Lidija ЛидијаLatvian  
-Form of Lydia in several languages.
-Ljerka Љерка 
-Ljilja Љиља 
-Short form of Ljiljana.
-Ljiljana Љиљана 
-Ljubica Љубица 
-Ljubinka Љубинка
-Magdalena Магдалена German  Occitan Czech  
-Latinate form of Magdalene.
+Kristina 
+Ksenija Ксенија  
+Lidija   
+Ljerka  
+Ljilja  
+Short 
+Ljiljana 
+Ljubica 
+Ljubinka 
+Magdalena
 Maja 
-Diminutive of Maria.
-Malina 2 Малина 
-Manda Манда 
-Diminutive of Magdalena.
-Mara 2 Мара 
-Marica Марица  
-Marija Марија  Latvian Maltese
-Form of Maria in several languages.
-Marijana Маријана 
-Marina Марина  German  Greek Czech  Latvian  Ancient Roman
-Marta Марта  Czech German    Latvian 
-Matija Матија m & 
-Melanija Меланија Latvian 
-Mila Мила  
-Milana Милана  
-Milanka Миланка 
-Milena Милена  Czech  
+Malina 
+Manda  
+Mara 
+Marica   
+Marija 
+Marijana  
+Marina 
+Marta
+Matija 
+Melanija   
+Mila   
+Milana   
+Milanka  
+Milena  
 Mileva  
 Milica  
 Miljana 
@@ -271,59 +258,53 @@ Mladenka
 Nada  
 Nadežda 
 Nadica  
-Natalija Наталија  
-Nataša Наташа  Czech 
-Neda 1 Неда 
-Short form of Nedeljka.
-Nedeljka Недељка 
-Nevena Невена 
-Nevenka Невенка 
-Nikolina Николина  
+Natalija   
+Nataša 
+Neda 
+Nedeljka  
+Nevena  
+Nevenka  
+Nikolina   
 Nina 
-Ninoslava Нинослава
-Olga Олга  German   Latvian  Czech  Greek
-Olgica Олгица 
-Olivera Оливера 
+Ninoslava
+Olga 
+Olgica 
+Olivera  
 Olja Оља
 Rada Рада 
-Radinka Радинка
-Radmila Радмила Czech
-Radojka Радојка 
-Radomira Радомира
-Radoslava Радослава Czech 
-Rahela Рахела 
-Rajka Рајка 
-Rosa 2 Роса 
-Ruža Ружа 
-Ružica Ружица 
-Diminutive of Ruža.
+Radinka 
+Radmila
+Radojka
+Radomira 
+Radoslava 
+Rahela  
+Rajka  
+Rosa 
+Ruža  
+Ružica  
 Sandra 
 Sanja  
 Sara 
-Saša Саша m & 
-Senka Сенка 
-Silvija СилвијаLatvian  
-Slađana Слађана 
-Sladjana Слађана
-Slavica Славица 
-Slavka Славка  
-Slobodanka Слободанка 
-Smiljana Смиљана 
-Snežana Снежана 
-Snježana Сњежана 
-Sofija Софија  Latvian 
-Form of Sophia in several languages.
+Saša 
+Senka 
+Silvija 
+Slađana  
+Sladjana 
+Slavica 
+Slavka 
+Slobodanka 
+Smiljana  
+Snežana  
+Snježana  
+Sofija 
 Sonja СоњаGerman    
-Form of Sonya in various languages.
 Stana Стана 
-Short form of Stanislava.
 Stanislava СтаниславаCzech   
 Staša Сташа 
 Stefana Стефана 
 Sunčica Сунчица 
 Suzana Сузана  Albanian  (Brazilian)
-Form of Susan in several languages.
-Svetlana Светлана  Latvian Armenian 
+Svetlana Светлана   Armenian 
 Svjetlana Свјетлана 
 Tajana Тајана 
 Tamara Тамара  Czech     
