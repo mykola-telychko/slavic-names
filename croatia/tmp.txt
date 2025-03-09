@@ -1,40 +1,3 @@
-
-Marko Ante  
-Marko Antonio  
-Marko Ivan  
-Marko Josip  
-Markus  
-Marla  
-Marlen  
-Marlena  
-Marlon  
-Maro  
-Maroje  
-Marsel  
-Marsela  
-Marta  
-Marta Marija  
-Marte  
-Martha  
-Martica  
-Martin  
-Martina   
-Martinka  
-Martino  
-Marul  
-Maruša  
-Maruška  
-Marvin  
-Mary  
-Marženka  
-Masimo  
-Massimiliano  
-Massimo  
-Maša  
-Mata  
-Matan  
-Mate  
-Matea  
 Mateas  
 Matei  
 Matej   
@@ -52,10 +15,8 @@ Matijana
 Matijas  
 Matije  
 Matijka  
-Matilda  
-Matina  
-Matiša  
-Matja  
+ 
+ 
 Matjaž  
 Matko  
 Mato  
@@ -66,13 +27,7 @@ Mattia
 Matuša  
 Maura  
 Mauricija  
-Mauricijo  
-Mauricio  
-Maurizio  
-Mauro  
-Mavro  
-Max  
-Maxim  
+ 
 Maximilian  
 Maya  
 Mea  
