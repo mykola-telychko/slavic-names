@@ -117,9 +117,7 @@ Mija
 Mijana  
 Mijat  
 Mijo  
-Mijodrag  
-Mijoljka  
-Mika  
+Mijodrag   
 Mikael  
 Mikaela  
 Mike  
@@ -175,13 +173,7 @@ Milo
 Milodar  
 Milodrag  
 Miloja  
-Miloje  
-Milojka  
-  
-Milomirka  
- 
-Milosava  
-Milosavka  
+Miloje   
 Miloslav  
 Miloslava  
 Miloš  
@@ -234,27 +226,7 @@ Miša
 Mišael  
 Miše  
 Mišel  
-Mišela  
-Miško  
-Mišo  
-Mitar  
-Mithat  
-Mitja  
-Mitko  
-Mito  
 
-Mladenko  
-Mladin  
-Mladinka  
-Mladinko  
-
-
- 
-
- 
-Mrika  
-
-Mubera  
 Muhamed  
 Muhamet  
 Muharem  
@@ -2622,17 +2594,5 @@ Erol
 Eros  
 Ersan  
 Ersilia  
-Ervin  
-Ervina  
-Ervino  
-Erwin  
-Erzsebet  
-Erža  
-Eržebet  
-Eržika  
-Esad  
-Esada  
-Esat  
-Esed  
 
  
