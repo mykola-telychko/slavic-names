@@ -39,7 +39,6 @@ Narcizo
 Narčizo  
 Narda  
 Nardi  
- 
 Nardo  
 Naser  
 Nasiha  
@@ -52,7 +51,6 @@ Nastazija
 Nastija  
 Nastja  
 Nasuf  
- 
 Natan  
 Natanael  
 Nataniel  
@@ -335,8 +333,6 @@ Pane
 Pantelija  
 Panto  
 Paolo 
-
-
 Patris  
 Patrizia  
 Paul  
@@ -496,16 +492,12 @@ Ragip
 Rahaela  
 Rahela  
 Rahim  
- 
- 
 Rahima  
 Rahime  
 Rahman  
 Raif  
 Raifa  
 Rajan  
-
- 
 Rajna  
 Rakelina  
 Ramadan  
@@ -526,7 +518,6 @@ Rasema
 Rasim  
 Rasima  
 Rasko  
- 
 Rastko  
 Raša  
 Rašeljka  
@@ -784,7 +775,6 @@ Sandy
 Sanel  
 Sanela  
 Sani  
- 
 Sanita  
 Sanka  
 Sanko  
@@ -963,9 +953,6 @@ Adel
 Adela  
 Adelaida  
 Adele  
-
-
-
 Adil  
 Adila  
 Adin  
@@ -1068,8 +1055,6 @@ Alenka
 Alenko  
 Alesandra  
 Alesandro  
- 
- 
 Alesia  
 Alessandra  
 Alessandro  
@@ -1155,7 +1140,6 @@ Amira
 Ammar  
 Amna  
 Amon  
-
 Anči  
 Ančica  
 Anda  
@@ -1336,7 +1320,6 @@ Armen
 Armend  
 Armida  
 Armin  
- 
 Arnel  
 Arnela  
 Arnes  
@@ -1388,8 +1371,6 @@ Aurela
 Aurelia  
 Aurelija  
 Aurelio  
- 
- 
 Bare  
 Barica  
 Bariša  
@@ -1571,7 +1552,6 @@ Brankica
 Branko   
 Brano  
 Braslav  
- 
 Bujar  
 Bukurije  
 Burhan  
@@ -1731,8 +1711,6 @@ Danko
 Danny  
 Dano  
 Danor  
- 
- 
 Dante  
 Danja  
 Danjel  
@@ -1865,7 +1843,6 @@ Djula
 Djurdja  
 Djurdjica  
 Djurdjija  
- 
 Dobriša  
 Dobrivoj  
 Dobrivoje  
@@ -2031,8 +2008,6 @@ Džoni
 Đeni  
 Đenifer  
 Đenio  
- 
- 
 Đenita  
 Đenka  
 Đenko  
@@ -2055,7 +2030,6 @@ Džoni
 Đordana  
 Đordano  
 Đorđ  
-
 Ea  
 Ecija  
 Ecio  
