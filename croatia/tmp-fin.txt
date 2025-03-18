@@ -1,1929 +1,1657 @@
-
-  Refija
-  Refika
-  Regina
-  Reina
-  Relja
-  Remiza
-  Remzija
-  Rena
-  Renata
-  Renatica
-  Renea
-  Resmija
-  Reza
-  Rezija
-  Rezika
-  Ria
-  Riana
-  Ribana
-  Rifeta
-  Rija
-  Rijana
-  Rika
-  Rikarda
-  Rina
-  Rita
-  Riza
-  Roberta
-  Robertina
-  Roka
-  Roksanda
-  Rolanda
-  Romana
-  Romanita
-  Rosina
-  Rosita
-  Roska
-  Rossana
-  Roza
-  Rozalia
-  Rozalija
-  Rozalinda
-  Rozana
-  Rozaria
-  Rozarija
-  Rozeta
-  Rozika
-  Rozina
-  Rozita
-  Roža
-  Rožana
-  Rožica
-  Rožika
-  Rožina
-  Rubija
-  Rubina
-  Ruda
-  Rudica
-  Rudika
-  Ruja
-  Rujana
-  Rukija
-  Rusmira
-  Ruška
-  Ruta
-  Ruzarija
-  Ruža
-  Ružarija
-  Ruždija
-  Ružena
-  Ruženka
-  Ružica
-  Saba
-  Sabaheta
-  Sabiha
-  Sabina
-  Sabira
-  Sabrija
-  Sabrina
-  Sada
-  Sadeta
-  Sadija
-  Sadika
-  Sadina
-  Sadžida
-  Safa
-  Safeta
-  Safida
-  Safija
-  Saida
-  Saima
-  Saja
-  Sajda
-  Sajka
-  Sajma
-  Sajonara
-  Sakiba
-  Sala
-  Saliha
-  Samanta
-  Samantha
-  Samida
-  Samija
-  Samira
-  Samka
-  Samra
-  Samuela
-  Sana
-  Sanda
-  Sandra
-  Sandrica
-  Sandrina
-  Sanela
-  Sanita
-  Sanka
-  Santa
-  Santana
-  Santina
-  Sanja
-  Sanjana
-  Sanjica
-  Sara
-  Sara Marija
-  Sarafina
-  Sarajka
-  Sarita
-  Sascha
-  Sasha
-  Saša
-  Sašenka
-  Saška
-  Sava
-  Saveta
-  Savica
-  Savinka
-  Savka
-  Seada
-  Seba
-  Sebiha
-  Sebina
-  Sedija
-  Sedika
-  Sedina
-  Sefija
-  Seida
-  Sejida
-  Seka
-  Sekana
-  Selena
-  Selima
-  Selina
-  Selma
-  Selmira
-  Selvedina
-  Selvira
-  Semida
-  Semina
-  Semira
-  Semka
-  Semra
-  Sena
-  Senada
-  Senia
-  Senida
-  Senija
-  Senita
-  Senka
-  Senjka
-  Serafina
-  Serena
-  Sevda
-  Severina
-  Sevleta
-  Shpresa
-  Siba
-  Sibela
-  Sibila
-  Sida
-  Sidika
-  Sidonija
-  Silva
-  Silvana
-  Silvestra
-  Silvia
-  Silvica
-  Silvija
-  Sima
-  Simeona
-  Simeuna
-  Simica
-  Simka
-  Simona
-  Sineva
-  Siniša
-  Sintia
-  Sintija
-  Sjajna
-  Abdula
-  Abida
-  Ada
-  Adaleta
-  Adela
-  Adelaida
-  Adila
-  Adina
-  Adisa
-  Admira
-  Adna
-  Adnana
-  Adolfina
-  Adriana
-  Adrijana
-  Advija
-  Aferdita
-  Afrdita
-  Afrodita
-  Aga
-  Agata
-  Ageta
-  Agica
-  Agna
-  Agnesa
-  Agneza
-  Agnezija
-  Agnieszka
-  Aida
-  Aiša
-  Ajda
-  Ajiša
-  Ajka
-  Ajla
-  Ajna
-  Ajša
-  Alaga
-  Alana
-  Alba
-  Alberta
-  Albertina
-  Albina
-  Alda
-  Aldiana
-  Aldijana
-  Aldina
-  Alegra
-  Aleksa
-  Aleksandar Saša
-  Aleksandra
-  Aleksandrina
-  Aleksija
-  Alema
-  Alemka
-  Alena
-  Alenka
-  Alesandra
-  Alesia
-  Alessandra
-  Alessia
-  Aleta
-  Alexandra
-  Alica
-  Alida
-  Alija
-  Alijana
-  Alina
-  Alisa
-  Alka
-  Alla
-  Alma
-  Almasa
-  Almedina
-  Almica
-  Almina
-  Almira
-  Alojza
-  Alojzija
-  Altea
-  Alja
-  Aljoša
-  Amadea
-  Amalia
-  Amalija
-  Amalija Ljubica
-  Amalka
-  Amanda
-  Ambra
-  Amela
-  Amelia
-  Amelija
-  Amila
-  Amina
-  Amira
-  Amna
-  Ančica
-  Anda
-  Andra
-  Andrea
-  Andreana
-  Andreina
-  Andreja
-  Andrejana
-  Andrejka
-  Andria
-  Andriana
-  Andrica
-  Andrija
-  Andrijana
-  Andrina
-  Anđa
-  Anđela
-  Anđelica
-  Anđelija
-  Anđelika
-  Anđelina
-  Anđelka
-  Anea
-  Anesa
-  Aneta
-  Angela
-  Angelica
-  Angelika
-  Angelina
-  Anisa
-  Anisija
-  Anita
-  Anka
-  Ankica
-  Anna
-  Anna Maria
-  Anna Marija
-  Annabella
-  Annamaria
-  Annamarija
-  Anselma
-  Anta
-  Antea
-  Anteja
-  Anthea
-  Antica
-  Antigona
-  Antiša
-  Antoana
-  Antoaneta
-  Antona
-  Antonela
-  Antonella
-  Antoneta
-  Antonia
-  Antonieta
-  Antonietta
-  Antonija
-  Antonijeta
-  Antonina
-  Antonjeta
-  Antula
-  Antunka
-  Anuka
-  Anuša
-  Anuška
-  Anja
-  Apolonija
-  Arabela
-  Aranka
-  Ardea
-  Ardena
-  Ardiana
-  Ardijana
-  Ardita
-  Areta
-  Ariana
-  Arianna
-  Ariela
-  Ariella
-  Arifa
-  Arijana
-  Arijela
-  Arijeta
-  Arina
-  Arinka
-  Aristea
-  Arjana
-  Arjeta
-  Arlena
-  Arleta
-  Arlinda
-  Armanda
-  Armela
-  Armida
-  Arnela
-  Arsenija
-  Arta
-  Arzija
-  Asia
-  Asifa
-  Asija
-  Asima
-  Asja
-  Asmira
-  Asta
-  Astra
-  Atifa
-  Atila
-  Atilija
-  Atina
-  Attila
-  Augusta
-  Augustina
-  Aurela
-  Aurelia
-  Aurelija
-  Barica
-  Bariša
-  Barka
-  Bazilija
-  Bea
-  Beata
-  Beatrica
-  Beba
-  Bedrija
-  Begajeta
-  Begzada
-  Behara
-  Behija
-  Bejza
-  Bekira
-  Bela
-  Belinda
-  Belkisa
-  Bella
-  Belma
-  Benedikta
-  Benita
-  Benka
-  Bepa
-  Bepica
-  Bepina
-  Bergita
-  Berica
-  Berina
-  Berislava
-  Bernada
-  Bernadica
-  Bernarda
-  Bernardica
-  Besa
-  Besima
-  Beta
-  Betika
-  Betina
-  Bianca
-  Bianka
-  Biba
-  Bibiana
-  Bibijana
-  Bijanka
-  Biljana
-  Binka
-  Bisera
-  Biserka
-  Blažena
-  Blaženka
-  Blažica
-  Blerina
-  Blerta
-  Bobana
-  Bogdana
-  Bogdanka
-  Bogomila
-  Bogomira
-  Bogumila
-  Boja
-  Bojana
-  Bojanka
-  Bojka
-  Bonita
-  Bora
-  Borana
-  Borbala
-  Borica
-  Borika
-  Borinka
-  Borislava
-  Borislavka
-  Boriša
-  Boriška
-  Borjana
-  Borjanka
-  Borka
-  Borna
-  Bosa
-  Bosiljka
-  Boška
-  Boža
-  Božana
-  Božanka
-  Božena
-  Boženka
-  Božica
-  Božidara
-  Božidarka
-  Božinka
-  Brana
-  Branimira
-  Branislava
-  Branislavka
-  Branka
-  Brankica
-  Cana
-  Carla
-  Carmela
-  Carolina
-  Caterina
-  Ceca
-  Cecilia
-  Cecilija
-  Cela
-  Celestina
-  Celija
-  Celina
-  Cena
-  Cenika
-  Chiara
-  Christina
-  Ciara
-  Cicilija
-  Cila
-  Cilika
-  Cima
-  Cinzia
-  Cirila
-  Cirilka
-  Clara
-  Claudia
-  Claudija
-  Clea
-  Cmilja
-  Cmiljka
-  Corina
-  Corinna
-  Cornelia
-  Cristina
-  Cveta
-  Cvetana
-  Cvetanka
-  Cvetka
-  Cvija
-  Cvijeta
-  Cvijetka
-  Cvita
-  Cvjeta
-  Cvjetana
-  Cvjetka
-  Čaba
-  Čedna
-  Čedomila
-  Čelestina
-  Čila
-  Čilja
-  Ćamila
-  Ćamka
-  Ćerima
-  Dada
-  Dafina
-  Dahna
-  Daira
-  Dajana
-  Dajna
-  Dalia
-  Daliborka
-  Dalida
-  Dalija
-  Dalila
-  Dalma
-  Damira
-  Damirka
-  Damjana
-  Damjanka
-  Dana
-  Dania
-  Danica
-  Danica Marija
-  Daniela
-  Daniella
-  Danijela
-  Danila
-  Danilka
-  Danira
-  Danka
-  Danja
-  Danjela
-  Dara
-  Daria
-  Dariana
-  Darija
-  Darijana
-  Darina
-  Darinka
-  Darja
-  Darjana
-  Darka
-  Daša
-  Daška
-  Davida
-  Davorka
-  Dea
-  Deana
-  Debora
-  Dejana
-  Dela
-  Delfa
-  Delfina
-  Delia
-  Delija
-  Dena
-  Denija
-  Denisa
-  Deniza
-  Denka
-  Derviša
-  Desa
-  Desanka
-  Deša
-  Deva
-  Devleta
-  Diana
-  Dijana
-  Dika
-  Dila
-  Dilja
-  Dimitrija
-  Dina
-  Dinka
-  Dionizija
-  Dita
-  Diva
-  Divka
-  Divna
-  Djuka
-  Djula
-  Djurdja
-  Djurdjica
-  Djurdjija
-  Dobriša
-  Dobroslava
-  Doma
-  Domica
-  Domina
-  Dominika
-  Dona
-  Donika
-  Donka
-  Donna
-  Dora
-  Dorea
-  Doreta
-  Doria
-  Doriana
-  Dorica
-  Dorija
-  Dorijana
-  Dorina
-  Dorja
-  Dorjana
-  Dorka
-  Dorotea
-  Doroteja
-  Dorothea
-  Dosta
-  Dostana
-  Draga
-  Dragana
-  Dragica
-  Dragija
-  Draginja
-  Dragiša
-  Dragoja
-  Dragojka
-  Dragojla
-  Dragomila
-  Dragomira
-  Dragomirka
-  Dragoslava
-  Dragutina
-  Drahuška
-  Draška
-  Dražana
-  Dražena
-  Draženka
-  Drena
-  Drenka
-  Drina
-  Drinka
-  Drita
-  Dubravka
-  Duda
-  Dujka
-  Duma
-  Dumica
-  Dumina
-  Dunja
-  Dunjica
-  Duša
-  Dušana
-  Dušanka
-  Dušenka
-  Dušica
-  Duška
-  Dvina
-  Džana
-  Džehva
-  Džemila
-  Dženana
-  Dženeta
-  Dženita
-  Dževada
-  Dževahira
-  Dževida
-  Đana
-  Đeljana
-  Đema
-  Đemila
-  Đemka
-  Đena
-  Đenana
-  Đenita
-  Đenka
-  Đevrija
-  Đilda
-  Đina
-  Đora
-  Đordana
-  Ea
-  Ecija
-  Eda
-  Edda
-  Edica
-  Edina
-  Edisa
-  Edita
-  Edna
-  Edona
-  Eduarda
-  Edvina
-  Egidija
-  Ehlimana
-  Ejla
-  Ekatarina
-  Ekaterina
-  Ekrema
-  Ela
-  Elda
-  Eldina
-  Elena
-  Elenka
-  Elenora
-  Eleonora
-  Elfrida
-  Elia
-  Eliana
-  Elica
-  Elida
-  Elidija
-  Elija
-  Elijana
-  Elina
-  Elinda
-  Elisa
-  Elisabeta
-  Elisabetta
-  Elita
-  Eliza
-  Elizabeta
-  Elka
-  Ella
-  Ellena
-  Elma
-  Elvina
-  Elvira
-  Elvisa
-  Elza
-  Ema
-  Emanuela
-  Emanuella
-  Emerika
-  Emica
-  Emila
-  Emilia
-  Emiliana
-  Emilija
-  Emilijana
-  Emilka
-  Emina
-  Emira
-  Emka
-  Emma
-  Emra
-  Ena
-  Endrina
-  Enea
-  Eneja
-  Enesa
-  Enia
-  Enica
-  Enida
-  Enija
-  Nagib
-  Nedžib
-  Nesib
-  Ragib
-  Rodoljub
-  Sakib
-  Dragoljub
-  Edib
-  Ejub
-  Nrec
-  Dominic
-  Dragec
-  Eric
-  Nedžad
-  Neđad
-  Nenad
-  Nihad
-  Obrad
-  Rašid
-  Rešad
-  Rešid
-  Richard
-  Ričard
-  Rihard
-  Rijad
-  Rikard
-  Roland
-  Sabid
-  Said
-  Samed
-  Samid
-  Sead
-  Seid
-  Sejad
-  Senad
-  Senahid
-  Senaid
-  Sigrid
-  Abid
-  Ahmed
-  Alfred
-  Armand
-  Armend
-  Arnold
-  Arpad
-  Astrid
-  Bernad
-  Bernard
-  David
-  Davud
-  Ded
-  Dejvid
-  Devid
-  Donald
-  Dževad
-  Đevad
-  Edmond
-  Edmund
-  Eduard
-  Edvard
-  Edward
-  Emsud
-  Nadine
-  Nađije
-  Nane
-  Nathalie
-  Nazmije
-  Ndue
-  Nede
-  Neđe
-  Nevrije
-  Nicole
-  Nike
-  Nine
-  Nue
-  Odette
-  Ore
-  Oreste
-  Pane
-  Pave
-  Pavle
-  Pere
-  Pierre
-  Pile
-  Rade
-  Radivoje
-  Radoje
-  Raffaele
-  Rahime
-  Ramize
-  Remzije
-  Renate
-  Rene
-  Renee
-  Resmije
-  Rose
-  Rosemarie
-  Roze
-  Rude
-  Rukije
-  Ruže
-  Sabine
-  Sabrije
-  Sadije
-  Salvatore
-  Sele
-  Selime
-  Selvije
-  Sergije
-  Sevdije
-  Shkurte
-  Silvije
-  Simone
-  Adele
-  Age
-  Ajše
-  Ale
-  Aleksije
-  Alice
-  Aliče
-  Alide
-  Alije
-  Alojzije
-  Ambrozije
-  Amelie
-  Andre
-  Anđe
-  Ane
-  Anne Marie
-  Annemarie
-  Annie
-  Ante
-  Antonije
-  Arsenije
-  Bare
-  Beatrice
-  Behare
-  Bene
-  Bone
-  Bore
-  Borivoje
-  Bože
-  Brane
-  Bukurije
-  Catherine
-  Christiane
-  Christine
-  Corinne
-  Dane
-  Daniele
-  Dante
-  Dare
-  Darije
-  Dašurije
-  Davide
-  Denise
-  Denize
-  Desire
-  Deže
-  Dimitrije
-  Dine
-  Dionizije
-  Djordje
-  Dobrivoje
-  Dominique
-  Drage
-  Dragoje
-  Duje
-  Đive
-  Eddie
-  Egle
-  Elide
-  Emine
-  Endre
-  Nasuf
-  Nazif
-  Raif
-  Reuf
-  Rudolf
-  Adolf
-  Arif
-  Asif
-  Atif
-  Oleg
-  Predrag
-  Dag
-  Noah
-  Oldrih
-  Rizah
-  Ruth
-  Salih
-  Sarah
-  Abdulah
-  Deborah
-  Edith
-  Elisabeth
-  Elizabeth
-  Emrah
-  Erich
-  Erih
-  Nandi
-  Nansi
-  Naomi
-  Nardi
-  Nazmi
-  Neli
-  Nelli
-  Nensi
-  Neri
-  Niki
-  Nikki
-  Noemi
-  Nori
-  Nuhi
-  Nuri
-  Pegi
-  Remzi
-  Reni
-  Robi
-  Roki
-  Rozmari
-  Rozmeri
-  Rubi
-  Rudi
-  Sabri
-  Sadri
-  Sali
-  Sami
-  Sandi
-  Sani
-  Sejdi
-  Sendi
-  Seni
-  Silvi
-  Sindi
-  Alani
-  Ali
-  Ameli
-  Anči
-  Andi
-  Andrei
-  Anni
-  Anri
-  Ante Toni
-  Antoni
-  Antonio Toni
-  Basri
-  Bedri
-  Beni
-  Beti
-  Boni
-  Dani
-  Demi
-  Deni
-  Denni
-  Dezi
-  Dimitri
-  Doni
-  Dragi
-  Dženi
-  Džoni
-  Đani
-  Đeni
-  Đoni
-  Edi
-  Eleni
-  Eli
-  Elli
-  Emi
-  Emili
-  Endi
-  Eni
-  Entoni
-  Nikolaj
-  Palj
-  Radivoj
-  Sergej
-  Sergij
-  Aleksej
-  Alojzij
-  Andrej
-  Berigoj
-  Borivoj
-  Darij
-  Darivoj
-  Dimitrij
-  Dobrivoj
-  Namik
-  Nick
-  Nik
-  Novak
-  Nrek
-  Prenk
-  Radek
-  Refik
-  Rok
-  Sadik
-  Alek
-  Besnik
-  Božek
-  Dominik
-  Emerik
-  Enrik
-  Erik
-  Nail
-  Natanael
-  Nataniel
-  Nicol
-  Nikol
-  Nikoll
-  Noel
-  Pal
-  Paul
-  Paval
-  Pavel
-  Radmil
-  Rafael
-  Raoul
-  Raul
-  Samil
-  Samuel
-  Sanel
-  Abel
-  Adel
-  Adil
-  Amel
-  Anđel
-  Anel
-  Angel
-  Antal
-  Ariel
-  Arnel
-  Aurel
-  Bartol
-  Bartul
-  Bilal
-  Ciril
-  Čamil
-  Čedomil
-  Čiril
-  Ćamil
-  Ćiril
-  Daniel
-  Danijel
-  Danil
-  Danjel
-  Denijal
-  Džemail
-  Džemal
-  Džemil
-  Đemal
-  Đemil
-  Emanuel
-  Emil
-  Engjell
-  Naim
-  Nazim
-  Nedim
-  Rahim
-  Rasim
-  Razim
-  Rustem
-  Salem
-  Salim
-  Selim
-  Abraham
-  Abram
-  Aćim
-  Adam
-  Afrim
-  Agim
-  Alem
-  Arsim
-  Asim
-  Bashkim
-  Baškim
-  Bekim
-  Besim
-  Blerim
-  Brahim
-  Burim
-  Čazim
-  Ćazim
-  Dujam
-  Edhem
-  Edim
-  Ekrem
-  Nadin
-  Natan
-  Nathan
-  Nermin
-  Neven
-  Nevesin
-  Nikola Ivan
-  Nolan
-  Norman
-  Nurudin
-  Njegovan
-  Obren
-  Ognjen
-  Orhan
-  Osman
-  Oton
-  Ozren
-  Paulin
-  Petar Ivan
-  Petar Šimun
-  Porin
-  Pren
-  Radan
-  Radovan
-  Rahman
-  Rajan
-  Ramadan
-  Ramon
-  Rayan
-  Rian
-  Robin
-  Roman
-  Ruben
-  Ryan
-  Sabahudin
-  Samson
-  Sanjin
-  Sarafin
-  Savan
-  Sean
-  Sebastian
-  Sebastijan
-  Sebastjan
-  Sedin
-  Sejfudin
-  Selman
-  Selvedin
-  Serafin
-  Severin
-  Sharon
-  Shtjefen
-  Silvan
-  Simeon
-  Simeun
-  Simon
-  Sinan
-  Aaron
-  Abdurahman
-  Abedin
-  Adin
-  Adnan
-  Adrian
-  Adrijan
-  Agan
-  Agron
-  Agustin
-  Ajdin
-  Aladin
-  Alain
-  Alan
-  Alban
-  Albin
-  Aldin
-  Alen
-  Alin
-  Alison
-  Allan
-  Allen
-  Almedin
-  Almin
-  Altin
-  Alvin
-  Amin
-  Amon
-  Andrian
-  Andrijan
-  Ante Ivan
-  Antoan
-  Anton
-  Antonio Ivan
-  Antun
-  Arben
-  Ardian
-  Ardijan
-  Arian
-  Arien
-  Arijan
-  Arlen
-  Arman
-  Armen
-  Armin
-  Aron
-  Arsen
-  Arslan
-  Artan
-  Arton
-  Arwen
-  Asan
-  Aslan
-  Augustin
-  Belmin
-  Benjamin
-  Berin
-  Bernardin
-  Boban
-  Bojan
-  Boran
-  Boren
-  Borjan
-  Boštjan
-  Božan
-  Božen
-  Brajan
-  Burhan
-  Carmen
-  Celestin
-  Christian
-  Christijan
-  Ciprijan
-  Cmiljan
-  Colin
-  Cristian
-  Cvijan
-  Cvijetin
-  Cvitan
-  Cvjetan
-  Dajan
-  Dalan
-  Dalen
-  Damian
-  Damijan
-  Damjan
-  Damnjan
-  Dan
-  Dardan
-  Daren
-  Darian
-  Darijan
-  Darin
-  Darjan
-  Darvin
-  Dasen
-  Davorin
-  Dean
-  Dejan
-  Demian
-  Demijan
-  Den
-  Din
-  Dion
-  Djon
-  Dojčin
-  Domin
-  Dominik Ivan
-  Domjan
-  Don
-  Dorian
-  Dorijan
-  Dorjan
-  Dragan
-  Dragotin
-  Dragun
-  Dragutin
-  Dražan
-  Dražen
-  Dren
-  Driton
-  Dušan
-  Dylan
-  Džejn
-  Dženan
-  Džon
-  Đon
-  Eden
-  Edin
-  Edison
-  Edon
-  Edvin
-  Edwin
-  Egon
-  Egzon
-  Eldin
-  Elen
-  Elin
-  Ellen
-  Eman
-  Emilijan
-  Emin
-  Emran
-  Erduan
-  Erđan
-  Erin
-  Nado
-  Nando
-  Narciso
-  Narcizo
-  Narčizo
-  Nardo
-  Natko
-  Nedeljko
-  Nediljko
-  Nedjelko
-  Nedjeljko
-  Nedo
-  Neđeljko
-  Neđo
-  Nelo
-  Neno
-  Neo
-  Nereo
-  Nerino
-  Nerio
-  Nevenko
-  Nevijo
-  Nevio
-  Nico
-  Nicolo
-  Niko
-  Nikolino
-  Ninko
-  Nino
-  Novo
-  Oliviero
-  Olivio
-  Oriano
-  Orijano
-  Orlando
-  Otavio
-  Oto
-  Otto
-  Ozrenko
-  Pablo
-  Pajo
-  Palko
-  Panto
-  Paolo
-  Paulino
-  Paulo
-  Pavao
-  Pavlo
-  Pavo
-  Pejo
-  Peko
-  Pepo
-  Pero
-  Petar Pavao
-  Petko
-  Piero
-  Pietro
-  Piljo
-  Pino
-  Pio
-  Pjerino
-  Pjero
-  Plamenko
-  Poldo
-  Prenko
-  Radenko
-  Radmilo
-  Rado
-  Radojko
-  Rafaelo
-  Rafo
-  Ramo
-  Ranko
-  Rasko
-  Rastko
-  Ratko
-  Rato
-  Redžo
-  Ređo
-  Remiđo
-  Remigio
-  Remzo
-  Renato
-  Renco
-  Renko
-  Reno
-  Renzo
-  Ricardo
-  Riccardo
-  Rikardo
-  Riko
-  Rinaldo
-  Rino
-  Rio
-  Risto
-  Rizo
-  Robertino
-  Roberto
-  Rocco
-  Rodolfo
-  Roko
-  Rolando
-  Romano
-  Romario
-  Rozarijo
-  Rozario
-  Rudo
-  Rudolfo
-  Ruđero
-  Ruzarijo
-  Salko
-  Sandrino
-  Sandro
-  Sanko
-  Santino
-  Santo
-  Saško
-  Sašo
-  Savo
-  Sejdo
-  Sejfo
-  Senko
-  Serđo
-  Sergio
-  Severino
-  Silvano
-  Silvijo
-  Silvio
-  Silvo
-  Simo
-  Aco
-  Ado
-  Adriano
-  Adrijano
-  Ago
-  Ahmo
-  Albano
-  Alberto
-  Albino
-  Aldo
-  Aleksandro
-  Alenko
-  Alesandro
-  Alessandro
-  Alessio
-  Alfio
-  Alfonso
-  Alfonzo
-  Alfredo
-  Alvaro
-  Amadeo
-  Amedeo
-  Andjelko
-  Andreo
-  Andriano
-  Andrijano
-  Andro
-  Anđelko
-  Anđelo
-  Anđeo
-  Angelo
-  Anito
-  Anselmo
-  Anteo
-  Anto
-  Antonelo
-  Antonijo
-  Antonino
-  Antonio
-  Arduino
-  Arđeo
-  Argeo
-  Ariano
-  Armando
-  Armano
-  Arno
-  Arturo
-  Atilio
-  Attilio
-  Aurelio
-  Baro
-  Bazilio
-  Bego
-  Benito
-  Benko
-  Bepo
-  Biserko
-  Blaženko
-  Blažo
-  Bolto
-  Bono
-  Borko
-  Borno
-  Boro
-  Bosiljko
-  Boško
-  Boženko
-  Božo
-  Braco
-  Branko
-  Brano
-  Carlo
-  Claudio
-  Cmiljko
-  Corrado
-  Cristiano
-  Cvetko
-  Cvijetko
-  Cvijeto
-  Cvijo
-  Cvitko
-  Cvjetko
-  Čedo
-  Češko
-  Ćiro
-  Dado
-  Dako
-  Dalio
-  Danilo
-  Danko
-  Dano
-  Darijo
-  Darinko
-  Dario
-  Darko
-  Davorko
-  Dedo
-  Delko
-  Diego
-  Dijego
-  Dinko
-  Dino
-  Divko
-  Domeniko
-  Dominko
-  Donato
-  Donko
-  Doriano
-  Dorijano
-  Dorino
-  Dorjano
-  Drago
-  Draško
-  Draženko
-  Drinko
-  Dubravko
-  Duilio
-  Dujko
-  Dujo
-  Dunko
-  Duško
-  Đanfranko
-  Đanino
-  Đankarlo
-  Đenio
-  Đenko
-  Đeno
-  Đermano
-  Đildo
-  Đino
-  Đivo
-  Đoko
-  Đordano
-  Ecio
-  Edo
-  Edoardo
-  Eduardo
-  Eđidio
-  Egidio
-  Eliđo
-  Eligio
-  Elio
-  Elvino
-  Elvio
-  Emiliano
-  Emilijano
-  Emilijo
-  Emilio
-  Emilko
-  Enco
-  Enio
-  Ennio
-  Enrico
-  Enriko
-  Enzo
-  Ermano
-  Philip
-  Philipp
-  Phillip
-  Pilip
-  Ragip
-  Redžep
-  Ređep
-  Ante Josip
-  Nadir
-  Nadomir
-  Nandor
-  Naser
-  Nasir
-  Nestor
-  Nezir
-  Njegomir
-  Oliver
-  Omar
-  Omer
-  Oscar
-  Oskar
-  Otmar
-  Pavlimir
-  Petar
-  Petar Krešimir
-  Petar Zvonimir
-  Peter
-  Petr
-  Pjer
-  Pjetar
-  Pjeter
-  Prosper
-  Prošper
-  Radimir
-  Radomir
-  Ratimir
-  Ratomir
-  Roger
-  Ruđer
-  Rusmir
-  Sabir
-  Sadmir
-  Samir
-  Selimir
-  Selmir
-  Selver
-  Semir
-  Silvestar
-  Silvester
-  Admir
-  Aladar
-  Aleksandar
-  Aleksander
-  Alexandar
-  Alexander
-  Almir
-  Amar
-  Amber
-  Amer
-  Amir
-  Ammar
-  Arber
-  Artur
-  Asmir
-  Bečir
-  Bećir
-  Behar
-  Bekir
-  Belizar
-  Besir
-  Biser
-  Bogumir
-  Božidar
-  Božimir
-  Branimir
-  Bujar
-  Christopher
-  Čedomir
-  Dagmar
-  Dalibor
-  Damir
-  Danimir
-  Danor
-  Dašmir
-  Davor
-  Delimir
-  Demir
-  Desimir
-  Dieter
-  Dimitar
-  Dobromir
-  Dragomir
-  Dražimir
-  Džafer
-  Đenifer
-  Edgar
-  Eldar
-  Elvir
-  Emir
-  Ener
-  Ensar
-  Enver
-  Narcis
-  Nevres
-  Nicholas
-  Nicolas
-  Nikolas
-  Nikolaus
-  Nives
-  Noris
-  Patris
-  Adis
-  Adonis
-  Agnes
-  Aleks
-  Alfons
-  Alis
-  Andreas
-  Andrejas
-  Andres
-  Anes
-  Anis
-  Aramis
-  Aris
-  Arnes
-  Boris
-  Carlos
-  Chris
-  Danis
-  Daris
-  Demis
-  Denis
-  Dennis
-  Dolores
-  Doloris
-  Doris
-  Dženis
-  Edis
-  Elis
-  Elvis
-  Enes
-  Enis
-  Nehat
-  Nevzat
-  Nisvet
-  Norbert
-  Nusret
-  Orest
-  Orsat
-  Petrit
-  Rifat
-  Rifet
-  Robert
-  Sabit
-  Sadat
-  Sadet
-  Safet
-  Samet
-  Sedat
-  Servet
-  Sifet
-  Adalbert
-  Ahmet
-  Albert
-  Amet
-  Anet
-  Ardit
-  Astrit
-  August
-  Benedikt
-  Berat
-  Borut
-  Daut
-  Donat
-  Đevat
-  Edit
-  Elfat
-  Elizabet
-  Endrit
-  Engelbert
-  Petru
-  Ninoslav
-  Njegoslav
-  Perislav
-  Radisav
-  Radislav
-  Radosav
-  Radoslav
-  Ratislav
-  Berislav
-  Borisav
-  Borislav
-  Branislav
-  Braslav
-  Časlav
-  Danislav
-  Darislav
-  Daroslav
-  Daslav
-  Dobrosav
-  Dobroslav
-  Dragoslav
-  Držislav
-  Andrew
-  Alex
-  Beatrix
-  Nancy
-  Nelly
-  Nensy
-  Sandy
-  Sany
-  Sendy
-  Sindy
-  Andrey
-  Andy
-  Anny
-  Anthony
-  Antony
-  Any
-  Cindy
-  Daisy
-  Danny
-  Denny
-  Deny
-  Eddy
-  Edy
-  Emilly
-  Emily
-  Endy
-  Entony
-  Nijaz
-  Ramiz
-  Abaz
-  Alfonz
-  Alojz
-  Ambroz
-  Deniz
-  Eniz
-  René
-  Antić
-  Dragić
-  Đerđ
-  Đorđ
-  Radoš
-  Agneš
-  Aleš
-  Andraš
-  Deneš
-  Derviš
-  Dragoš
+Almira
+Alojza
+Alojzija
+Altea
+Alja
+Aljoša
+Amadea
+Amalia
+Amalija
+Amalija Ljubica
+Amalka
+Amanda
+Ambra
+Amela
+Amelia
+Amelija
+Amila
+Amina
+Amira
+Amna
+Ančica
+Anda
+Andra
+Andrea
+Andreana
+Andreina
+Andreja
+Andrejana
+Andrejka
+Andria
+Andriana
+Andrica
+Andrija
+Andrijana
+Andrina
+Anđa
+Anđela
+Anđelica
+Anđelija
+Anđelika
+Anđelina
+Anđelka
+Anea
+Anesa
+Aneta
+Angela
+Angelica
+Angelika
+Angelina
+Anisa
+Anisija
+Anita
+Anka
+Ankica
+Anna
+Anna Maria
+Anna Marija
+Annabella
+Annamaria
+Annamarija
+Anselma
+Anta
+Antea
+Anteja
+Anthea
+Antica
+Antigona
+Antiša
+Antoana
+Antoaneta
+Antona
+Antonela
+Antonella
+Antoneta
+Antonia
+Antonieta
+Antonietta
+Antonija
+Antonijeta
+Antonina
+Antonjeta
+Antula
+Antunka
+Anuka
+Anuša
+Anuška
+Anja
+Apolonija
+Arabela
+Aranka
+Ardea
+Ardena
+Ardiana
+Ardijana
+Ardita
+Areta
+Ariana
+Arianna
+Ariela
+Ariella
+Arifa
+Arijana
+Arijela
+Arijeta
+Arina
+Arinka
+Aristea
+Arjana
+Arjeta
+Arlena
+Arleta
+Arlinda
+Armanda
+Armela
+Armida
+Arnela
+Arsenija
+Arta
+Arzija
+Asia
+Asifa
+Asija
+Asima
+Asja
+Asmira
+Asta
+Astra
+Atifa
+Atila
+Atilija
+Atina
+Attila
+Augusta
+Augustina
+Aurela
+Aurelia
+Aurelija
+Barica
+Bariša
+Barka
+Bazilija
+Bea
+Beata
+Beatrica
+Beba
+Bedrija
+Begajeta
+Begzada
+Behara
+Behija
+Bejza
+Bekira
+Bela
+Belinda
+Belkisa
+Bella
+Belma
+Benedikta
+Benita
+Benka
+Bepa
+Bepica
+Bepina
+Bergita
+Berica
+Berina
+Berislava
+Bernada
+Bernadica
+Bernarda
+Bernardica
+Besa
+Besima
+Beta
+Betika
+Betina
+Bianca
+Bianka
+Biba
+Bibiana
+Bibijana
+Bijanka
+Biljana
+Binka
+Bisera
+Biserka
+Blažena
+Blaženka
+Blažica
+Blerina
+Blerta
+Bobana
+Bogdana
+Bogdanka
+Bogomila
+Bogomira
+Bogumila
+Boja
+Bojana
+Bojanka
+Bojka
+Bonita
+Bora
+Borana
+Borbala
+Borica
+Borika
+Borinka
+Borislava
+Borislavka
+Boriša
+Boriška
+Borjana
+Borjanka
+Borka
+Borna
+Bosa
+Bosiljka
+Boška
+Boža
+Božana
+Božanka
+Božena
+Boženka
+Božica
+Božidara
+Božidarka
+Božinka
+Brana
+Branimira
+Branislava
+Branislavka
+Branka
+Brankica
+Cana
+Carla
+Carmela
+Carolina
+Caterina
+Ceca
+Cecilia
+Cecilija
+Cela
+Celestina
+Celija
+Celina
+Cena
+Cenika
+Chiara
+Christina
+Ciara
+Cicilija
+Cila
+Cilika
+Cima
+Cinzia
+Cirila
+Cirilka
+Clara
+Claudia
+Claudija
+Clea
+Cmilja
+Cmiljka
+Corina
+Corinna
+Cornelia
+Cristina
+Cveta
+Cvetana
+Cvetanka
+Cvetka
+Cvija
+Cvijeta
+Cvijetka
+Cvita
+Cvjeta
+Cvjetana
+Cvjetka
+Čaba
+Čedna
+Čedomila
+Čelestina
+Čila
+Čilja
+Ćamila
+Ćamka
+Ćerima
+Dada
+Dafina
+Dahna
+Daira
+Dajana
+Dajna
+Dalia
+Daliborka
+Dalida
+Dalija
+Dalila
+Dalma
+Damira
+Damirka
+Damjana
+Damjanka
+Dana
+Dania
+Danica
+Danica Marija
+Daniela
+Daniella
+Danijela
+Danila
+Danilka
+Danira
+Danka
+Danja
+Danjela
+Dara
+Daria
+Dariana
+Darija
+Darijana
+Darina
+Darinka
+Darja
+Darjana
+Darka
+Daša
+Daška
+Davida
+Davorka
+Dea
+Deana
+Debora
+Dejana
+Dela
+Delfa
+Delfina
+Delia
+Delija
+Dena
+Denija
+Denisa
+Deniza
+Denka
+Derviša
+Desa
+Desanka
+Deša
+Deva
+Devleta
+Diana
+Dijana
+Dika
+Dila
+Dilja
+Dimitrija
+Dina
+Dinka
+Dionizija
+Dita
+Diva
+Divka
+Divna
+Djuka
+Djula
+Djurdja
+Djurdjica
+Djurdjija
+Dobriša
+Dobroslava
+Doma
+Domica
+Domina
+Dominika
+Dona
+Donika
+Donka
+Donna
+Dora
+Dorea
+Doreta
+Doria
+Doriana
+Dorica
+Dorija
+Dorijana
+Dorina
+Dorja
+Dorjana
+Dorka
+Dorotea
+Doroteja
+Dorothea
+Dosta
+Dostana
+Draga
+Dragana
+Dragica
+Dragija
+Draginja
+Dragiša
+Dragoja
+Dragojka
+Dragojla
+Dragomila
+Dragomira
+Dragomirka
+Dragoslava
+Dragutina
+Drahuška
+Draška
+Dražana
+Dražena
+Draženka
+Drena
+Drenka
+Drina
+Drinka
+Drita
+Dubravka
+Duda
+Dujka
+Duma
+Dumica
+Dumina
+Dunja
+Dunjica
+Duša
+Dušana
+Dušanka
+Dušenka
+Dušica
+Duška
+Dvina
+Džana
+Džehva
+Džemila
+Dženana
+Dženeta
+Dženita
+Dževada
+Dževahira
+Dževida
+Đana
+Đeljana
+Đema
+Đemila
+Đemka
+Đena
+Đenana
+Đenita
+Đenka
+Đevrija
+Đilda
+Đina
+Đora
+Đordana
+Ea
+Ecija
+Eda
+Edda
+Edica
+Edina
+Edisa
+Edita
+Edna
+Edona
+Eduarda
+Edvina
+Egidija
+Ehlimana
+Ejla
+Ekatarina
+Ekaterina
+Ekrema
+Ela
+Elda
+Eldina
+Elena
+Elenka
+Elenora
+Eleonora
+Elfrida
+Elia
+Eliana
+Elica
+Elida
+Elidija
+Elija
+Elijana
+Elina
+Elinda
+Elisa
+Elisabeta
+Elisabetta
+Elita
+Eliza
+Elizabeta
+Elka
+Ella
+Ellena
+Elma
+Elvina
+Elvira
+Elvisa
+Elza
+Ema
+Emanuela
+Emanuella
+Emerika
+Emica
+Emila
+Emilia
+Emiliana
+Emilija
+Emilijana
+Emilka
+Emina
+Emira
+Emka
+Emma
+Emra
+Ena
+Endrina
+Enea
+Eneja
+Enesa
+Enia
+Enica
+Enida
+Enija
+Nagib
+Nedžib
+Nesib
+Ragib
+Rodoljub
+Sakib
+Dragoljub
+Edib
+Ejub
+Nrec
+Dominic
+Dragec
+Eric
+Nedžad
+Neđad
+Nenad
+Nihad
+Obrad
+Rašid
+Rešad
+Rešid
+Richard
+Ričard
+Rihard
+Rijad
+Rikard
+Roland
+Sabid
+Said
+Samed
+Samid
+Sead
+Seid
+Sejad
+Senad
+Senahid
+Senaid
+Sigrid
+Abid
+Ahmed
+Alfred
+Armand
+Armend
+Arnold
+Arpad
+Astrid
+Bernad
+Bernard
+David
+Davud
+Ded
+Dejvid
+Devid
+Donald
+Dževad
+Đevad
+Edmond
+Edmund
+Eduard
+Edvard
+Edward
+Emsud
+Nadine
+Nađije
+Nane
+Nathalie
+Nazmije
+Ndue
+Nede
+Neđe
+Nevrije
+Nicole
+Nike
+Nine
+Nue
+Odette
+Ore
+Oreste
+Pane
+Pave
+Pavle
+Pere
+Pierre
+Pile
+Rade
+Radivoje
+Radoje
+Raffaele
+Rahime
+Ramize
+Remzije
+Renate
+Rene
+Renee
+Resmije
+Rose
+Rosemarie
+Roze
+Rude
+Rukije
+Ruže
+Sabine
+Sabrije
+Sadije
+Salvatore
+Sele
+Selime
+Selvije
+Sergije
+Sevdije
+Shkurte
+Silvije
+Simone
+Adele
+Age
+Ajše
+Ale
+Aleksije
+Alice
+Aliče
+Alide
+Alije
+Alojzije
+Ambrozije
+Amelie
+Andre
+Anđe
+Ane
+Anne Marie
+Annemarie
+Annie
+Ante
+Antonije
+Arsenije
+Bare
+Beatrice
+Behare
+Bene
+Bone
+Bore
+Borivoje
+Bože
+Brane
+Bukurije
+Catherine
+Christiane
+Christine
+Corinne
+Dane
+Daniele
+Dante
+Dare
+Darije
+Dašurije
+Davide
+Denise
+Denize
+Desire
+Deže
+Dimitrije
+Dine
+Dionizije
+Djordje
+Dobrivoje
+Dominique
+Drage
+Dragoje
+Duje
+Đive
+Eddie
+Egle
+Elide
+Emine
+Endre
+Nasuf
+Nazif
+Raif
+Reuf
+Rudolf
+Adolf
+Arif
+Asif
+Atif
+Oleg
+Predrag
+Dag
+Noah
+Oldrih
+Rizah
+Ruth
+Salih
+Sarah
+Abdulah
+Deborah
+Edith
+Elisabeth
+Elizabeth
+Emrah
+Erich
+Erih
+Nandi
+Nansi
+Naomi
+Nardi
+Nazmi
+Neli
+Nelli
+Nensi
+Neri
+Niki
+Nikki
+Noemi
+Nori
+Nuhi
+Nuri
+Pegi
+Remzi
+Reni
+Robi
+Roki
+Rozmari
+Rozmeri
+Rubi
+Rudi
+Sabri
+Sadri
+Sali
+Sami
+Sandi
+Sani
+Sejdi
+Sendi
+Seni
+Silvi
+Sindi
+Alani
+Ali
+Ameli
+Anči
+Andi
+Andrei
+Anni
+Anri
+Ante Toni
+Antoni
+Antonio Toni
+Basri
+Bedri
+Beni
+Beti
+Boni
+Dani
+Demi
+Deni
+Denni
+Dezi
+Dimitri
+Doni
+Dragi
+Dženi
+Džoni
+Đani
+Đeni
+Đoni
+Edi
+Eleni
+Eli
+Elli
+Emi
+Emili
+Endi
+Eni
+Entoni
+Nikolaj
+Palj
+Radivoj
+Sergej
+Sergij
+Aleksej
+Alojzij
+Andrej
+Berigoj
+Borivoj
+Darij
+Darivoj
+Dimitrij
+Dobrivoj
+Namik
+Nick
+Nik
+Novak
+Nrek
+Prenk
+Radek
+Refik
+Rok
+Sadik
+Alek
+Besnik
+Božek
+Dominik
+Emerik
+Enrik
+Erik
+Nail
+Natanael
+Nataniel
+Nicol
+Nikol
+Nikoll
+Noel
+Pal
+Paul
+Paval
+Pavel
+Radmil
+Rafael
+Raoul
+Raul
+Samil
+Samuel
+Sanel
+Abel
+Adel
+Adil
+Amel
+Anđel
+Anel
+Angel
+Antal
+Ariel
+Arnel
+Aurel
+Bartol
+Bartul
+Bilal
+Ciril
+Čamil
+Čedomil
+Čiril
+Ćamil
+Ćiril
+Daniel
+Danijel
+Danil
+Danjel
+Denijal
+Džemail
+Džemal
+Džemil
+Đemal
+Đemil
+Emanuel
+Emil
+Engjell
+Naim
+Nazim
+Nedim
+Rahim
+Rasim
+Razim
+Rustem
+Salem
+Salim
+Selim
+Abraham
+Abram
+Aćim
+Adam
+Afrim
+Agim
+Alem
+Arsim
+Asim
+Bashkim
+Baškim
+Bekim
+Besim
+Blerim
+Brahim
+Burim
+Čazim
+Ćazim
+Dujam
+Edhem
+Edim
+Ekrem
+Nadin
+Natan
+Nathan
+Nermin
+Neven
+Nevesin
+Nikola Ivan
+Nolan
+Norman
+Nurudin
+Njegovan
+Obren
+Ognjen
+Orhan
+Osman
+Oton
+Ozren
+Paulin
+Petar Ivan
+Petar Šimun
+Porin
+Pren
+Radan
+Radovan
+Rahman
+Rajan
+Ramadan
+Ramon
+Rayan
+Rian
+Robin
+Roman
+Ruben
+Ryan
+Sabahudin
+Samson
+Sanjin
+Sarafin
+Savan
+Sean
+Sebastian
+Sebastijan
+Sebastjan
+Sedin
+Sejfudin
+Selman
+Selvedin
+Serafin
+Severin
+Sharon
+Shtjefen
+Silvan
+Simeon
+Simeun
+Simon
+Sinan
+Aaron
+Abdurahman
+Abedin
+Adin
+Adnan
+Adrian
+Adrijan
+Agan
+Agron
+Agustin
+Ajdin
+Aladin
+Alain
+Alan
+Alban
+Albin
+Aldin
+Alen
+Alin
+Alison
+Allan
+Allen
+Almedin
+Almin
+Altin
+Alvin
+Amin
+Amon
+Andrian
+Andrijan
+Ante Ivan
+Antoan
+Anton
+Antonio Ivan
+Antun
+Arben
+Ardian
+Ardijan
+Arian
+Arien
+Arijan
+Arlen
+Arman
+Armen
+Armin
+Aron
+Arsen
+Arslan
+Artan
+Arton
+Arwen
+Asan
+Aslan
+Augustin
+Belmin
+Benjamin
+Berin
+Bernardin
+Boban
+Bojan
+Boran
+Boren
+Borjan
+Boštjan
+Božan
+Božen
+Brajan
+Burhan
+Carmen
+Celestin
+Christian
+Christijan
+Ciprijan
+Cmiljan
+Colin
+Cristian
+Cvijan
+Cvijetin
+Cvitan
+Cvjetan
+Dajan
+Dalan
+Dalen
+Damian
+Damijan
+Damjan
+Damnjan
+Dan
+Dardan
+Daren
+Darian
+Darijan
+Darin
+Darjan
+Darvin
+Dasen
+Davorin
+Dean
+Dejan
+Demian
+Demijan
+Den
+Din
+Dion
+Djon
+Dojčin
+Domin
+Dominik Ivan
+Domjan
+Don
+Dorian
+Dorijan
+Dorjan
+Dragan
+Dragotin
+Dragun
+Dragutin
+Dražan
+Dražen
+Dren
+Driton
+Dušan
+Dylan
+Džejn
+Dženan
+Džon
+Đon
+Eden
+Edin
+Edison
+Edon
+Edvin
+Edwin
+Egon
+Egzon
+Eldin
+Elen
+Elin
+Ellen
+Eman
+Emilijan
+Emin
+Emran
+Erduan
+Erđan
+Erin
+Nado
+Nando
+Narciso
+Narcizo
+Narčizo
+Nardo
+Natko
+Nedeljko
+Nediljko
+Nedjelko
+Nedjeljko
+Nedo
+Neđeljko
+Neđo
+Nelo
+Neno
+Neo
+Nereo
+Nerino
+Nerio
+Nevenko
+Nevijo
+Nevio
+Nico
+Nicolo
+Niko
+Nikolino
+Ninko
+Nino
+Novo
+Oliviero
+Olivio
+Oriano
+Orijano
+Orlando
+Otavio
+Oto
+Otto
+Ozrenko
+Pablo
+Pajo
+Palko
+Panto
+Paolo
+Paulino
+Paulo
+Pavao
+Pavlo
+Pavo
+Pejo
+Peko
+Pepo
+Pero
+Petar Pavao
+Petko
+Piero
+Pietro
+Piljo
+Pino
+Pio
+Pjerino
+Pjero
+Plamenko
+Poldo
+Prenko
+Radenko
+Radmilo
+Rado
+Radojko
+Rafaelo
+Rafo
+Ramo
+Ranko
+Rasko
+Rastko
+Ratko
+Rato
+Redžo
+Ređo
+Remiđo
+Remigio
+Remzo
+Renato
+Renco
+Renko
+Reno
+Renzo
+Ricardo
+Riccardo
+Rikardo
+Riko
+Rinaldo
+Rino
+Rio
+Risto
+Rizo
+Robertino
+Roberto
+Rocco
+Rodolfo
+Roko
+Rolando
+Romano
+Romario
+Rozarijo
+Rozario
+Rudo
+Rudolfo
+Ruđero
+Ruzarijo
+Salko
+Sandrino
+Sandro
+Sanko
+Santino
+Santo
+Saško
+Sašo
+Savo
+Sejdo
+Sejfo
+Senko
+Serđo
+Sergio
+Severino
+Silvano
+Silvijo
+Silvio
+Silvo
+Simo
+Aco
+Ado
+Adriano
+Adrijano
+Ago
+Ahmo
+Albano
+Alberto
+Albino
+Aldo
+Aleksandro
+Alenko
+Alesandro
+Alessandro
+Alessio
+Alfio
+Alfonso
+Alfonzo
+Alfredo
+Alvaro
+Amadeo
+Amedeo
+Andjelko
+Andreo
+Andriano
+Andrijano
+Andro
+Anđelko
+Anđelo
+Anđeo
+Angelo
+Anito
+Anselmo
+Anteo
+Anto
+Antonelo
+Antonijo
+Antonino
+Antonio
+Arduino
+Arđeo
+Argeo
+Ariano
+Armando
+Armano
+Arno
+Arturo
+Atilio
+Attilio
+Aurelio
+Baro
+Bazilio
+Bego
+Benito
+Benko
+Bepo
+Biserko
+Blaženko
+Blažo
+Bolto
+Bono
+Borko
+Borno
+Boro
+Bosiljko
+Boško
+Boženko
+Božo
+Braco
+Branko
+Brano
+Carlo
+Claudio
+Cmiljko
+Corrado
+Cristiano
+Cvetko
+Cvijetko
+Cvijeto
+Cvijo
+Cvitko
+Cvjetko
+Čedo
+Češko
+Ćiro
+Dado
+Dako
+Dalio
+Danilo
+Danko
+Dano
+Darijo
+Darinko
+Dario
+Darko
+Davorko
+Dedo
+Delko
+Diego
+Dijego
+Dinko
+Dino
+Divko
+Domeniko
+Dominko
+Donato
+Donko
+Doriano
+Dorijano
+Dorino
+Dorjano
+Drago
+Draško
+Draženko
+Drinko
+Dubravko
+Duilio
+Dujko
+Dujo
+Dunko
+Duško
+Đanfranko
+Đanino
+Đankarlo
+Đenio
+Đenko
+Đeno
+Đermano
+Đildo
+Đino
+Đivo
+Đoko
+Đordano
+Ecio
+Edo
+Edoardo
+Eduardo
+Eđidio
+Egidio
+Eliđo
+Eligio
+Elio
+Elvino
+Elvio
+Emiliano
+Emilijano
+Emilijo
+Emilio
+Emilko
+Enco
+Enio
+Ennio
+Enrico
+Enriko
+Enzo
+Ermano
+Philip
+Philipp
+Phillip
+Pilip
+Ragip
+Redžep
+Ređep
+Ante Josip
+Nadir
+Nadomir
+Nandor
+Naser
+Nasir
+Nestor
+Nezir
+Njegomir
+Oliver
+Omar
+Omer
+Oscar
+Oskar
+Otmar
+Pavlimir
+Petar
+Petar Krešimir
+Petar Zvonimir
+Peter
+Petr
+Pjer
+Pjetar
+Pjeter
+Prosper
+Prošper
+Radimir
+Radomir
+Ratimir
+Ratomir
+Roger
+Ruđer
+Rusmir
+Sabir
+Sadmir
+Samir
+Selimir
+Selmir
+Selver
+Semir
+Silvestar
+Silvester
+Admir
+Aladar
+Aleksandar
+Aleksander
+Alexandar
+Alexander
+Almir
+Amar
+Amber
+Amer
+Amir
+Ammar
+Arber
+Artur
+Asmir
+Bečir
+Bećir
+Behar
+Bekir
+Belizar
+Besir
+Biser
+Bogumir
+Božidar
+Božimir
+Branimir
+Bujar
+Christopher
+Čedomir
+Dagmar
+Dalibor
+Damir
+Danimir
+Danor
+Dašmir
+Davor
+Delimir
+Demir
+Desimir
+Dieter
+Dimitar
+Dobromir
+Dragomir
+Dražimir
+Džafer
+Đenifer
+Edgar
+Eldar
+Elvir
+Emir
+Ener
+Ensar
+Enver
+Narcis
+Nevres
+Nicholas
+Nicolas
+Nikolas
+Nikolaus
+Nives
+Noris
+Patris
+Adis
+Adonis
+Agnes
+Aleks
+Alfons
+Alis
+Andreas
+Andrejas
+Andres
+Anes
+Anis
+Aramis
+Aris
+Arnes
+Boris
+Carlos
+Chris
+Danis
+Daris
+Demis
+Denis
+Dennis
+Dolores
+Doloris
+Doris
+Dženis
+Edis
+Elis
+Elvis
+Enes
+Enis
+Nehat
+Nevzat
+Nisvet
+Norbert
+Nusret
+Orest
+Orsat
+Petrit
+Rifat
+Rifet
+Robert
+Sabit
+Sadat
+Sadet
+Safet
+Samet
+Sedat
+Servet
+Sifet
+Adalbert
+Ahmet
+Albert
+Amet
+Anet
+Ardit
+Astrit
+August
+Benedikt
+Berat
+Borut
+Daut
+Donat
+Đevat
+Edit
+Elfat
+Elizabet
+Endrit
+Engelbert
+Petru
+Ninoslav
+Njegoslav
+Perislav
+Radisav
+Radislav
+Radosav
+Radoslav
+Ratislav
+Berislav
+Borisav
+Borislav
+Branislav
+Braslav
+Časlav
+Danislav
+Darislav
+Daroslav
+Daslav
+Dobrosav
+Dobroslav
+Dragoslav
+Držislav
+Andrew
+Alex
+Beatrix
+Nancy
+Nelly
+Nensy
+Sandy
+Sany
+Sendy
+Sindy
+Andrey
+Andy
+Anny
+Anthony
+Antony
+Any
+Cindy
+Daisy
+Danny
+Denny
+Deny
+Eddy
+Edy
+Emilly
+Emily
+Endy
+Entony
+Nijaz
+Ramiz
+Abaz
+Alfonz
+Alojz
+Ambroz
+Deniz
+Eniz
+René
+Antić
+Dragić
+Đerđ
+Đorđ
+Radoš
+Agneš
+Aleš
+Andraš
+Deneš
+Derviš
+Dragoš
