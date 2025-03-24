@@ -34,7 +34,7 @@ async function readAndCombineFiles(filePaths) {
 
 // Example usage:
 const filePaths = [
-  './all-names-cr.txt', 
+  './all-name-cr.txt', 
   './lastname-cr.txt'
 ];
 
@@ -42,7 +42,8 @@ function uniqueElArray(arr) {
     const uniqueArray = [];
     const seenValues = {};
     for (const value of arr) {
-      if (!seenValues[value]) {
+      
+      if (!isEmpty(value) && !seenValues[value]) {
         uniqueArray.push(value);
         seenValues[value] = true;
       }
@@ -69,3 +70,8 @@ const chunkArray = (arr, size) =>
     (acc, _, i) => (
       i % size === 0 ? [...acc, arr.slice(i, i + size)] : acc), []
   );
+// assistant-js
+  function isEmpty(str) {
+    // Returns true if string is empty, null, undefined, or whitespace-only
+    return !str || str.trim() === "";
+  }
