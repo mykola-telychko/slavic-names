@@ -24,7 +24,7 @@ async function readAndCombineFiles(filePaths) {
           // console.log("JSON file created successfully!", jsonData);
           console.log("JSON file created successfully!", list.length);
 
-      // await fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2)); 
+      await fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2)); 
       await fs.writeFile(outputFilePath1, JSON.stringify({"qty": list.length, "list": list}, null, 2)); 
 
   } catch (err) {
@@ -34,22 +34,16 @@ async function readAndCombineFiles(filePaths) {
 
 // Example usage:
 const filePaths = [
-  './all-names-pl.txt', 
+  './all-name-pl.txt', 
   './lastname-pl.txt'
 ];
-// const filePaths = [
-//   './names-sksvcz.txt', 
-//   './surename-sksvcz.txt',
-//   './addresses.txt',
-//   './cities.txt'
-// ];
 
 function uniqueElArray(arr) {
     const uniqueArray = [];
     const seenValues = {};
-  
     for (const value of arr) {
-      if (!seenValues[value]) {
+      
+      if (!isEmpty(value) && !seenValues[value]) {
         uniqueArray.push(value);
         seenValues[value] = true;
       }
@@ -76,3 +70,8 @@ const chunkArray = (arr, size) =>
     (acc, _, i) => (
       i % size === 0 ? [...acc, arr.slice(i, i + size)] : acc), []
   );
+// assistant-js
+  function isEmpty(str) {
+    // Returns true if string is empty, null, undefined, or whitespace-only
+    return !str || str.trim() === "";
+  }
