@@ -1,3 +1,3 @@
-croatia - get only m/f name for 3 file f/m/all (from pdf already handled)
+transcription from cyrillic to latin symbol (script.js)
 
 serbia and croatia / belarus not full

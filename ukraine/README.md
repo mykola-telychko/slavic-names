@@ -10,6 +10,7 @@ modern-female-ukranian-names.txt
 
 ukranian-lastnames.txt
 
+transcription from cyrillic to latin symbol
 
 
 female list 
