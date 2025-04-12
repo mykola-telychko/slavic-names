@@ -10,8 +10,8 @@ async function readAndCombineFiles(filePaths) {
           return data.trim().replace(/\t/g, '').split('\n'); 
         })
       );
-      const outputFilePath = 'bg_names.json'; 
-      const outputFilePath1 = 'bg_allcomb.json'; 
+      const outputFilePath = 'bh_names.json'; 
+      const outputFilePath1 = 'bh_allcomb.json'; 
 
       let list = combinator(fileData[0], fileData[1]);
       // let half = chunkArray(list, 5000000)
@@ -25,7 +25,7 @@ async function readAndCombineFiles(filePaths) {
           console.log("JSON file created successfully!", list.length);
 
       await fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2)); 
-      await fs.writeFile(outputFilePath1, JSON.stringify({"qty": list.length, "list": list}, null, 2)); 
+      await fs.writeFile(outputFilePath1, JSON.stringify  ({"qty": list.length, "list": list}, null, 2)); 
 
   } catch (err) {
     console.error("Error processing files:", err);
@@ -34,8 +34,8 @@ async function readAndCombineFiles(filePaths) {
 
 // Example usage:
 const filePaths = [
-  './all-names-bg.txt', 
-  './lastname-bg.txt'
+  './all-names-bh.txt', 
+  './lastname-bh.txt'
 ];
 
 function uniqueElArray(arr) {
