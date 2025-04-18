@@ -1,6 +1,6 @@
 # slavic-names
 
-API: https://data-rand-generator.vercel.app/api/list?people=ua
+API-exmpl: https://data-rand-generator.vercel.app/api/list?people=ua
 
 Lists of slavic names
 
