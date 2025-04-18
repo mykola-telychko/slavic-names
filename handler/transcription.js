@@ -64,7 +64,7 @@ async function processFile(inputFile, outputFile) {
     console.error('Error processing file:', err);
   }
 }
-const inputFile = 'ua-lastname.txt';
+const inputFile = 'lastname-bl.txt';
 const outputFile = 'ua-n.txt'; 
 
 processFile(inputFile, outputFile);
