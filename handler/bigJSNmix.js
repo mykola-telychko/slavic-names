@@ -34,7 +34,7 @@ async function readAndCombineFiles(filePaths) {
 
 // Example usage:
 const filePaths = [
-  './all-name-pl.txt', 
+  './all-name-cz.txt', 
   './ua-lastname.txt'
 ];
 // const filePaths = [
