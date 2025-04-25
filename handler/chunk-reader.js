@@ -9,7 +9,8 @@ async function processFile(inputFile, outputFile) {
     // const res = replaceStreets(filRes);
     // const jsonOutput = { "cities": filRes }; 
     let list = JSON.parse(data).list;
-    let chuki = chunkArray(list, 2000000);
+    // let chuki = chunkArray(list, 2000000); // -- 
+    let chuki = chunkArray(list, 1800000); // ++
     let chukiCount = chuki.length;
     let fileNameList = generateChunkNames(chukiCount);
 
@@ -33,7 +34,7 @@ async function processFile(inputFile, outputFile) {
 
 // const inputFile = 'all-name-cr.txt';
 // const outputFile = 'cr_names.json'; 
-const inputFile = 'by_ua_allcomb.json';
+const inputFile = 'cz_ua_allcomb.json';
 const outputFile = 'cts.txt'; 
 
 processFile(inputFile, outputFile);
@@ -53,7 +54,7 @@ function generateChunkNames(count) {
   const chunkNames = [];
   for (let i = 1; i <= count; i++) {
     // chunkNames.push(`chunk_${i}`);
-    chunkNames.push(`by_ua_chunk_${i}.json`);
+    chunkNames.push(`cz_ua_chunk_${i}.json`);
   }
   return chunkNames;
 }
