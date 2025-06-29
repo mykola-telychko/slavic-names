@@ -1,32 +1,46 @@
-# slavic-names
+# 🧭 slavic-names
 
-API-exmpl: https://data-rand-generator.vercel.app/api/list?people=ua
+> Collection and generation of Slavic names categorized by region.  
+> Includes API access, JSON data generation, and Cyrillic transliteration support.
 
-Lists of slavic names
+🔗 **API Example:**  
+[`https://data-rand-generator.vercel.app/api/list?people=ua`](https://data-rand-generator.vercel.app/api/list?people=ua)
 
-East Slavic:
-  Ukraine,
-  Belarus,
-  
-West Slavic:
-  Poland,
-  Czech Republic,
-  Slovakia,
-  
-South Slavic:
-  Bulgaria,
-  Croatia,
-  Bosnia and Herzegovina,
-  Montenegro,
-  North Macedonia,
-  Serbia,
-  Slovenia,
+---
 
-- info (insruction for api) + table max value 
-- save final version all bigJSON names
+## 🌍 Regions Covered
 
-- add outer path for 3files in HADLER.js where i generate bigJSON
-- warning about possible duplicates
-- transliteration for cyrillic symbols in ukrainian dir
+### East Slavic
+- 🇺🇦 Ukraine
+- 🇧🇾 Belarus
 
-inspiration by: https://github.com/SzymonSkurski/slavic-names/tree/main/src/slavicNames
+### West Slavic
+- 🇵🇱 Poland
+- 🇨🇿 Czech Republic
+- 🇸🇰 Slovakia
+
+### South Slavic
+- 🇧🇬 Bulgaria
+- 🇭🇷 Croatia
+- 🇧🇦 Bosnia and Herzegovina
+- 🇲🇪 Montenegro
+- 🇲🇰 North Macedonia
+- 🇷🇸 Serbia
+- 🇸🇮 Slovenia
+
+---
+
+## 📦 Features
+
+- 📋 Lists of male & female names by Slavic region
+- 🔤 Transliteration for Ukrainian (Cyrillic → Latin)
+- ⚠️ Duplicate warning system in name generator
+- 📄 Exportable large JSON datasets per region
+- 🛠️ Custom `HANDLER.js` to generate full `bigJSON` output
+
+---
+
+## 🧪 API Usage
+
+```bash
+GET /api/list?people=ua
